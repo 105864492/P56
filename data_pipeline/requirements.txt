@@ -1,0 +1,22 @@
+# Core data processing
+pandas>=2.0.0
+numpy>=1.24.0
+pyarrow>=12.0.0          # For Parquet support
+
+# Graph ML libraries
+torch>=2.0.0
+torch-geometric>=2.3.0   # PyG
+dgl>=1.0.0               # Alternative (optional)
+
+# For visualization
+streamlit>=1.28.0
+networkx>=3.0
+matplotlib>=3.7
+seaborn>=0.12
+
+# Utilities
+tqdm>=4.65.0             # Progress bars
+pyyaml>=6.0              # Config files
+click>=8.1.0             # CLI interface
+pytest>=7.4              # Testing
+jupyter>=1.0             # Notebooks

@@ -1,0 +1,22 @@
+# Python bytecode and cache directories
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Tool caches
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+
+# Pipeline logs
+pipeline.log
+
+# Generated data artifacts
+data/processed/
+data/graph_data/
