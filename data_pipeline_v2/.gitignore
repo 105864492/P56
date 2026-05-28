@@ -1,0 +1,20 @@
+# data
+data/raw/
+data/processed/
+data/graph_data/
+
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# editors
+.vscode/
+.idea/
+
+# os
+.DS_Store
+Thumbs.db
