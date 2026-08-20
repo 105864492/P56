@@ -23,7 +23,7 @@ Converts the raw DBLP XML into a graph with four node types and three edge types
 
 ```bash
 git clone <your-repo-url>
-cd dblp_pipeline
+cd data_pipeline_v2
 python -m venv venv
 ```
 
@@ -107,6 +107,12 @@ python scripts/view_parquet.py
 
 ```bash
 python scripts/view_graph.py
+```
+
+## View Interactive Visualised Data (Web)
+
+```bash
+streamlit run scripts/dashboard.py
 ```
 
 ## Project Structure
