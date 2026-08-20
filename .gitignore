@@ -1,0 +1,24 @@
+# data
+data_pipeline_v2/data/raw/
+data_pipeline_v2/data/processed/
+data_pipeline_v2/data/graph_data/
+
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# editors
+.vscode/
+.idea/
+
+# os
+.DS_Store
+Thumbs.db
+
+# Generated network visualizations
+temp_graph.html
+data_pipeline_v2/lib
