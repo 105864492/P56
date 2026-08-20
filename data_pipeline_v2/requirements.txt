@@ -4,5 +4,4 @@ torch
 torch-geometric
 streamlit
 plotly
-pyvis
-streamlit_option_menu
+networkx
