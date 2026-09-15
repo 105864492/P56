@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+        "type": "author",
+        "file": "data/processed/nodes/authors.parquet"
+    },
+    {
+        "type": "paper",
+        "file": "data/processed/nodes/papers.parquet"
+    },
+    {
+        "type": "venue",
+        "file": "data/processed/nodes/venues.parquet"
+    },
+    {
+        "type": "year",
+        "file": "data/processed/nodes/years.parquet"
+    }
+    ],
+
+  
+
+  "edges": [
+  {
+    "source_type": "author",
+    "relation": "wrote",
+    "target_type": "paper",
+    "file": "data/processed/edges/author_wrote_paper.parquet",
+    "source_column": "author_id",
+    "target_column": "paper_id"
+  },
+
+  {
+    "source_type": "paper",
+    "relation": "published_in",
+    "target_type": "venue",
+    "file": "data/processed/edges/paper_published_in_venue.parquet",
+    "source_column": "paper_id",
+    "target_column": "venue_id"
+    },
+    {
+    "source_type": "paper",
+    "relation": "published_in",
+    "target_type": "year",
+    "file": "data/processed/edges/paper_published_in_year.parquet",
+    "source_column": "paper_id",
+    "target_column": "year_id"
+    }
+]
+}

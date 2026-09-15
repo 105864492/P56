@@ -1,0 +1,23 @@
+{
+  "nodes": [
+    {
+      "type": "student",
+      "file": "universal_hin/test_data/students.csv"
+    },
+    {
+      "type": "course",
+      "file": "universal_hin/test_data/courses.csv"
+    }
+  ],
+
+  "edges": [
+    {
+      "source_type": "student",
+      "relation": "enrolled_in",
+      "target_type": "course",
+      "file": "universal_hin/test_data/student_enrolled_course.csv",
+      "source_column": "student_id",
+      "target_column": "course_id"
+    }
+  ]
+}

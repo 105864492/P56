@@ -1,0 +1,1001 @@
+paper_id,key,title,type,ee,pages
+0,reference/vision/X14bd,Curvedness.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100117,159
+1,reference/vision/Singh14,Transparency and Translucency.,incollection,https://doi.org/10.1007/978-0-387-31439-6_559,815-819
+2,reference/vision/X14ii,Surface Orientation Histogram (Discrete Version of EGI).,incollection,https://doi.org/10.1007/978-0-387-31439-6_100229,781
+3,reference/vision/X14m,Appearance Scanning.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100189,36
+4,reference/vision/Wong14,Image-Based Lighting.,incollection,https://doi.org/10.1007/978-0-387-31439-6_14,387-390
+5,reference/vision/X14gt,Radiometric Camera Calibration.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100172,658
+6,reference/vision/Pont14b,Surface Roughness.,incollection,https://doi.org/10.1007/978-0-387-31439-6_539,781-782
+7,reference/vision/Alexander14,Image Registration.,incollection,https://doi.org/10.1007/978-0-387-31439-6_194,380-385
+8,reference/vision/Fukui14,Subspace Methods.,incollection,https://doi.org/10.1007/978-0-387-31439-6_708,777-781
+9,reference/vision/X14if,Structure-from-Motion (SfM).,incollection,https://doi.org/10.1007/978-0-387-31439-6_100254,775
+10,reference/vision/X14w,Body Configuration Recovery.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100211,59
+11,reference/vision/SrivastavaPKTA14,Multi-camera Human Action Recognition.,incollection,https://doi.org/10.1007/978-0-387-31439-6_776,501-511
+12,reference/vision/Zhang14q,Iterative Closest Point (ICP).,incollection,https://doi.org/10.1007/978-0-387-31439-6_179,433-434
+13,reference/vision/Gall14,Simulated Annealing.,incollection,https://doi.org/10.1007/978-0-387-31439-6_680,737-741
+14,reference/vision/X14ew,Multisensor Data Fusion.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100091,516
+15,reference/vision/X14hp,Semidefinite Optimization.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100253,716
+16,reference/vision/Hartley14,Projective Reconstruction.,incollection,https://doi.org/10.1007/978-0-387-31439-6_784,640-651
+17,reference/vision/X14au,Computer Vision.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100073,145
+18,reference/vision/X14ay,Conditional Random Fields.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100233,146
+19,reference/vision/X14je,Underwater Radiative Transfer Processes.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100197,837
+20,reference/vision/PoggioU14,Machine Recognition of Objects.,incollection,https://doi.org/10.1007/978-0-387-31439-6_793,469-472
+21,reference/vision/X14fz,Partitioning.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100059,589
+22,reference/vision/X14gv,Recognition-By-Components (RBC) Theory.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100121,663
+23,reference/vision/X14gb,Perspective Projection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100003,592
+24,reference/vision/X14gn,Projection Matrix.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100004,639
+25,reference/vision/X14av,Computing Architectures for Machine Perception.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100298,145
+26,reference/vision/X14in,Surveillance Camera.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100162,782
+27,reference/vision/X14ez,Network Camera.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100161,523
+28,reference/vision/Zickler14,Photometric Invariants.,incollection,https://doi.org/10.1007/978-0-387-31439-6_544,599-603
+29,reference/vision/X14dl,Interface Reflection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100181,422
+30,reference/vision/Beyerer14,Mirrors.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100,483-486
+31,reference/vision/Rusinkiewicz14,Reflectance Models.,incollection,https://doi.org/10.1007/978-0-387-31439-6_537,674-677
+32,reference/vision/Agrawal14,Multi-focus Images.,incollection,https://doi.org/10.1007/978-0-387-31439-6_445,511-513
+33,reference/vision/ShenGCB14,Active Calibration.,incollection,https://doi.org/10.1007/978-0-387-31439-6_283,5
+34,reference/vision/Pietikainen14,Texture Recognition.,incollection,https://doi.org/10.1007/978-0-387-31439-6_328,789-793
+35,reference/vision/X14jv,Volumetric Texture.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100072,874
+36,reference/vision/Agrawal14a,Vignetting.,incollection,https://doi.org/10.1007/978-0-387-31439-6_563,854-856
+37,reference/vision/Basri14,Photometric Stereo.,incollection,https://doi.org/10.1007/978-0-387-31439-6_254,603-608
+38,reference/vision/Zach14,Dense Reconstruction.,incollection,https://doi.org/10.1007/978-0-387-31439-6_197,179-181
+39,reference/vision/X14dh,Implicit Polynomial Surface.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100120,399
+40,reference/vision/X14ax,Concurrent Mapping and Localization (CML).,incollection,https://doi.org/10.1007/978-0-387-31439-6_100077,146
+41,reference/vision/Koenderink14c,Osculating Paraboloids.,incollection,https://doi.org/10.1007/978-0-387-31439-6_781,575-580
+42,reference/vision/X14s,Backscattering.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100957,43
+43,reference/vision/X14bm,Diffusely Scattered Reflectance.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100959,210
+44,reference/vision/Tappen14a,Intrinsic Images.,incollection,https://doi.org/10.1007/978-0-387-31439-6_245,424-425
+45,reference/vision/X14bf,Deconvolution.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100166,171
+46,reference/vision/X14dm,Interpretation of Line Drawings.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100113,423
+47,reference/vision/Tai14,Blur Estimation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_509,57-59
+48,reference/vision/X14cy,Heterogeneous Parallel Computing.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100299,358
+49,reference/vision/X14bq,Dimension Reduction.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100232,218
+50,reference/vision/X14ev,Multiplexed Sensing.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100188,516
+51,reference/vision/X14dq,Kalman-Bucy Filter.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100269,437
+52,reference/vision/X14hm,Second Order Approximation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100295,713
+53,reference/vision/Chan14a,Light Field.,incollection,https://doi.org/10.1007/978-0-387-31439-6_5,447-453
+54,reference/vision/X14dt,KF.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100270,437
+55,reference/vision/Sturm14a,Fisheye Lens.,incollection,https://doi.org/10.1007/978-0-387-31439-6_487,300-301
+56,reference/vision/DickinsonSS14,Shock Graph.,incollection,https://doi.org/10.1007/978-0-387-31439-6_655,729-737
+57,reference/vision/Wu14b,Histogram.,incollection,https://doi.org/10.1007/978-0-387-31439-6_742,361-362
+58,reference/vision/X14gu,Rao Metric.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100236,660
+59,reference/vision/X14gy,Relation Between Objects and Their Digital Images.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100223,677
+60,reference/vision/X14el,Monte Carlo Annealing.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100245,492
+61,reference/vision/X14iq,Symmetry-Based X.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100218,788
+62,reference/vision/Koppal14a,Lambertian Reflectance.,incollection,https://www.wikidata.org/entity/Q56431771,441-443
+63,reference/vision/X14cg,Face Reconstruction.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100104,288
+64,reference/vision/Zhang14n,Fundamental Matrix.,incollection,https://doi.org/10.1007/978-0-387-31439-6_131,307-308
+65,reference/vision/RamanathD14b,Gamut Mapping.,incollection,https://doi.org/10.1007/978-0-387-31439-6_456,318-325
+66,reference/vision/X14et,Multiple View Geometry.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100010,513
+67,reference/vision/X14hz,SPDE.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100249,749
+68,reference/vision/X14fx,Pan-Tilt Camera Calibration.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100082,581
+69,reference/vision/X14fy,Pan-Tilt Camera Calibration.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100083,586
+70,reference/vision/Hasinoff14a,Saturation (Imaging).,incollection,https://doi.org/10.1007/978-0-387-31439-6_483,699-701
+71,reference/vision/Tominaga14,Color Model.,incollection,https://doi.org/10.1007/978-0-387-31439-6_449,116-120
+72,reference/vision/X14ge,Picture Understanding.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100115,610
+73,reference/vision/X14db,ICP.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100030,371
+74,reference/vision/X14gd,Photometric Consistency Function.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100042,599
+75,reference/vision/X14bw,Distance Estimation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100007,229
+76,reference/vision/X14gm,Probabilistic Hill Climbing.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100246,639
+77,reference/vision/X14u,Blackbody Radiator.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100202,52
+78,reference/vision/Wang14,Face Identification.,incollection,https://doi.org/10.1007/978-0-387-31439-6_354,279-285
+79,reference/vision/X14cb,Environment Mapping.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100016,247
+80,reference/vision/X14fl,Object Segmentation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100065,542
+81,reference/vision/Vernon14a,Cognitive Vision.,incollection,https://doi.org/10.1007/978-0-387-31439-6_83,106-109
+82,reference/vision/X14jc,Two Dimensional Conditional Random Fields.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100234,829
+83,reference/vision/X14gq,PTZ Camera Calibration.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100084,654
+84,reference/vision/Wu14,Cross Entropy.,incollection,https://doi.org/10.1007/978-0-387-31439-6_743,154
+85,reference/vision/RamanathD14a,Color Spaces.,incollection,https://doi.org/10.1007/978-0-387-31439-6_452,123-132
+86,reference/vision/Tan14d,"Specularity, Specular Reflectance.",incollection,https://doi.org/10.1007/978-0-387-31439-6_538,750-752
+87,reference/vision/X14di,Inexact Matching.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100287,401
+88,reference/vision/X14dn,Intrinsic Parameters.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100023,426
+89,reference/vision/X14du,Kinematic Chain Motion Models.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100212,437
+90,reference/vision/X14bz,Ellipse Matching.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100095,247
+91,reference/vision/Lindeberg14,Scale Selection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_242,701-713
+92,reference/vision/Vernon14b,Visual Cognition.,incollection,https://doi.org/10.1007/978-0-387-31439-6_785,860-862
+93,reference/vision/Neumann14,Description Logics.,incollection,https://doi.org/10.1007/978-0-387-31439-6_706,189-191
+94,reference/vision/X14fb,Non-central Camera Calibration.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100025,523
+95,reference/vision/X14br,Dimensional Compression.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100230,218
+96,reference/vision/X14dc,Image Alignment.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100038,373
+97,reference/vision/Joshi14a,Motion Blur.,incollection,https://doi.org/10.1007/978-0-387-31439-6_512,492-495
+98,reference/vision/X14cx,Hazard Detection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100174,358
+99,reference/vision/X14cp,Gait Analysis.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100109,309
+100,reference/vision/Koch14,Depth Estimation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_125,183-186
+101,reference/vision/PereraBZ14,Exploration: Simultaneous Localization and Mapping (SLAM).,incollection,https://doi.org/10.1007/978-0-387-31439-6_280,268-275
+102,reference/vision/X14gx,Reflectometry.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100191,677
+103,reference/vision/LangguthG14a,Radiance.,incollection,https://doi.org/10.1007/978-0-387-31439-6_526,655-656
+104,reference/vision/X14bc,Coplanarity Constraint.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100009,152
+105,reference/vision/X14jb,Transportation Problem.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100288,827
+106,reference/vision/X14p,Automatic Gait Recognition.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100108,42
+107,reference/vision/X14gf,Piecewise Polynomial.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100118,610
+108,reference/vision/Bonaiuto14,Affordances and Action Recognition.,incollection,https://doi.org/10.1007/978-0-387-31439-6_772,25-27
+109,reference/vision/Zhang14g,"Camera Parameters (Intrinsic, Extrinsic).",incollection,https://doi.org/10.1007/978-0-387-31439-6_152,81-85
+110,reference/vision/RamanathD14d,Planckian Locus.,incollection,https://doi.org/10.1007/978-0-387-31439-6_566,613-616
+111,reference/vision/Wu14c,Statistical Independence.,incollection,https://doi.org/10.1007/978-0-387-31439-6_744,759-760
+112,reference/vision/X14l,Aperture Ghosting.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100146,36
+113,reference/vision/X14bu,Discrete AdaBoost.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100239,221
+114,reference/vision/Ackermann14,Factorization.,incollection,https://doi.org/10.1007/978-0-387-31439-6_689,288-291
+115,reference/vision/X14bj,Depth Imaging.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100006,186
+116,reference/vision/X14ft,Out of Focus Blur.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100167,580
+117,reference/vision/X14af,CIE Standard Illuminant.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100123,100
+118,reference/vision/X14ek,MoCap.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100047,488
+119,reference/vision/Chaumette14,Visual Servoing.,incollection,https://doi.org/10.1007/978-0-387-31439-6_281,869-874
+120,reference/vision/X14jd,Underwater Light Field.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100196,837
+121,reference/vision/Zhang14a,Affine Projection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_791,22
+122,reference/vision/SrivastavaKK14,Statistical Shape Analysis.,incollection,https://doi.org/10.1007/978-0-387-31439-6_778,760-770
+123,reference/vision/Maire14,Corner Detection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_216,152-154
+124,reference/vision/X14ig,Superresolution.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100036,781
+125,reference/vision/X14gg,Pinhole Camera.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100001,610
+126,reference/vision/X14fe,Numerical Partial Differential Equations.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100262,531
+127,reference/vision/Maeda14,Dimensionality Reduction.,incollection,https://doi.org/10.1007/978-0-387-31439-6_652,218-221
+128,reference/vision/X14cw,GVF.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100267,354
+129,reference/vision/Atkinson14a,Polarized Light in Computer Vision.,incollection,https://doi.org/10.1007/978-0-387-31439-6_571,630-634
+130,reference/vision/Vernon14,Cognitive System.,incollection,https://doi.org/10.1007/978-0-387-31439-6_82,100-106
+131,reference/vision/X14eg,Methods of Image Recognition in a Low-Dimensional Eigenspace.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100266,483
+132,reference/vision/Koenderink14a,Differential Geometry of Surfaces in Three-Dimensional Euclidean Space.,incollection,https://doi.org/10.1007/978-0-387-31439-6_643,193-201
+133,reference/vision/X14g,Adaptive Gains.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100131,19
+134,reference/vision/X14ji,Variational Methods.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100277,842
+135,reference/vision/X14ae,Catoptrics.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100153,89
+136,reference/vision/Eklundh14,Mobile Observers.,incollection,https://doi.org/10.1007/978-0-387-31439-6_274,486-488
+137,reference/vision/Tan14a,Image-Based Modeling.,incollection,https://doi.org/10.1007/978-0-387-31439-6_11,390-392
+138,reference/vision/BertalmioCMS14,Inpainting.,incollection,https://doi.org/10.1007/978-0-387-31439-6_249,401-416
+139,reference/vision/X14hh,Robust Clustering.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100227,691
+140,reference/vision/X14c,Active Contours.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100261,5
+141,reference/vision/YuS14,Image Enhancement and Restoration.,incollection,https://doi.org/10.1007/978-0-387-31439-6_233,376-379
+142,reference/vision/Sparr14,Euclidean Geometry.,incollection,https://doi.org/10.1007/978-0-387-31439-6_751,259-263
+143,reference/vision/X14em,"Morphology, Form Analysis.",incollection,https://doi.org/10.1007/978-0-387-31439-6_100291,492
+144,reference/vision/X14hg,Robot-Camera Calibration.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100028,691
+145,reference/vision/X14bg,Dehazing.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100194,174
+146,reference/vision/Murota14,Linear Programming.,incollection,https://doi.org/10.1007/978-0-387-31439-6_648,455-460
+147,reference/vision/Tappen14,Image Decompositions.,incollection,https://doi.org/10.1007/978-0-387-31439-6_549,373-376
+148,reference/vision/X14e,Activity Analysis.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100289,13
+149,reference/vision/Schneider14,Shape from Silhouette.,incollection,https://doi.org/10.1007/978-0-387-31439-6_206,725-726
+150,reference/vision/Wright14,Sparse Coding.,incollection,https://doi.org/10.1007/978-0-387-31439-6_326,744-748
+151,reference/vision/Ramalingam14,Catadioptric Camera.,incollection,https://doi.org/10.1007/978-0-387-31439-6_486,85-89
+152,reference/vision/X14fa,Noise Removal.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100152,523
+153,reference/vision/X14bi,Depth from Scattering.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100960,186
+154,reference/vision/AmitF14,Object Detection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_660,537-542
+155,reference/vision/X14jt,Visual Patterns.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100102,869
+156,reference/vision/X14fs,Osculating Quadric.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100294,580
+157,reference/vision/X14jo,Vignetting Estimation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100199,856
+158,reference/vision/X14ef,Mesostructure.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100067,482
+159,reference/vision/X14fh,Object Motion Blur.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100169,542
+160,reference/vision/MatovskiNC14,Gait Recognition.,incollection,https://doi.org/10.1007/978-0-387-31439-6_375,309-318
+161,reference/vision/Sturm14,Calibration of a Non-single Viewpoint System.,incollection,https://doi.org/10.1007/978-0-387-31439-6_161,66-69
+162,reference/vision/Brox14a,Maximum Likelihood Estimation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_674,481-482
+163,reference/vision/X14ee,Maximum Likelihood Estimator.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100244,482
+164,reference/vision/Zhang14s,Perspective Transformation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_116,592
+165,reference/vision/Benenson14a,Occlusion Handling.,incollection,https://doi.org/10.1007/978-0-387-31439-6_136,551-552
+166,reference/vision/X14h,Affine Alignment.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100005,19
+167,reference/vision/X14eu,Multiple View Stereo.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100041,513
+168,reference/vision/X14gp,PSF Estimation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100282,654
+169,reference/vision/X14hd,Rigid Matching.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100032,681
+170,reference/vision/Savarese14,Shape from Specularities.,incollection,https://doi.org/10.1007/978-0-387-31439-6_261,726-729
+171,reference/vision/X14q,Automatic Scale Selection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100052,42
+172,reference/vision/Kumar14,Discriminative Random Fields.,incollection,https://doi.org/10.1007/978-0-387-31439-6_653,221-229
+173,reference/vision/X14aw,Concept Languages.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100263,145
+174,reference/vision/X14jf,User-Assisted.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100062,837
+175,reference/vision/Turk14,Gesture Recognition.,incollection,https://doi.org/10.1007/978-0-387-31439-6_376,346-349
+176,reference/vision/Bregler14,Kinematic Motion Models.,incollection,https://doi.org/10.1007/978-0-387-31439-6_587,437-440
+177,reference/vision/Lin14a,Fluorescent Lighting.,incollection,https://doi.org/10.1007/978-0-387-31439-6_515,301-302
+178,reference/vision/X14cd,Error-Correcting Graph Matching.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100285,258
+179,reference/vision/X14ik,Surface Scattering.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100215,782
+180,reference/vision/X14ep,Motion Tracking.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100049,498
+181,reference/vision/X14gz,Relief Texture.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100069,677
+182,reference/vision/X14eb,Light Transmission and Reflection Coefficients.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100206,453
+183,reference/vision/X14ao,Color Difference.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100126,116
+184,reference/vision/X14hn,Segmentation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100060,713
+185,reference/vision/Ramalingam14b,Field of View.,incollection,https://doi.org/10.1007/978-0-387-31439-6_462,294-297
+186,reference/vision/X14hu,Single Viewpoint.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100138,741
+187,reference/vision/X14hs,Shape from Specular Reflections.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100066,726
+188,reference/vision/Sturm14c,Image Plane.,incollection,https://doi.org/10.1007/978-0-387-31439-6_468,379-380
+189,reference/vision/Tai14a,Deblurring.,incollection,https://doi.org/10.1007/978-0-387-31439-6_510,168-171
+190,reference/vision/Zhu14,Video Mosaicing.,incollection,https://doi.org/10.1007/978-0-387-31439-6_68,842-847
+191,reference/vision/X14jx,White Point.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100143,888
+192,reference/vision/X14do,IP Camera.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100160,428
+193,reference/vision/Zhang14p,Intrinsics.,incollection,https://doi.org/10.1007/978-0-387-31439-6_155,426
+194,reference/vision/X14he,Rigid Positioning.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100033,681
+195,reference/vision/X14ar,Color Management.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100136,116
+196,reference/vision/X14ce,Error-Tolerant Graph Matching.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100286,258
+197,reference/vision/Chandraker14,Bas-Relief Ambiguity.,incollection,https://doi.org/10.1007/978-0-387-31439-6_542,43-46
+198,reference/vision/ShottonK14,Semantic Image Segmentation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_251,713-716
+199,reference/vision/X14be,Curves.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100221,159
+200,reference/vision/X14jq,Vision-Based Control.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100079,860
+201,reference/vision/X14gj,Polarizing Film.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100208,636
+202,reference/vision/Hasinoff14,"Photon, Poisson Noise.",incollection,https://doi.org/10.1007/978-0-387-31439-6_482,608-610
+203,reference/vision/Barbu14a,Swendsen-Wang Cut Algorithm.,incollection,https://doi.org/10.1007/978-0-387-31439-6_722,785-788
+204,reference/vision/X14ie,Stochastic Relaxation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100248,775
+205,reference/vision/Sugihara14,Line Drawing Labeling.,incollection,https://doi.org/10.1007/978-0-387-31439-6_390,453-455
+206,reference/vision/Lawrence14,Recovery of Reflectance Properties.,incollection,https://doi.org/10.1007/978-0-387-31439-6_545,663-669
+207,reference/vision/SunS14,Model-Based Object Recognition.,incollection,https://doi.org/10.1007/978-0-387-31439-6_334,488-492
+208,reference/vision/Ren14,Boundary Detection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_215,59-64
+209,reference/vision/X14cm,Foreground-background Assignment.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100956,305
+210,reference/vision/Kimmel14,"Geodesics, Distance Maps, and Curve Evolution.",incollection,https://doi.org/10.1007/978-0-387-31439-6_769,327-329
+211,reference/vision/X14ck,Fisheye Camera.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100156,300
+212,reference/vision/X14fw,Panoramic Stitching.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100015,581
+213,reference/vision/X14it,Thermal Radiator.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100201,793
+214,reference/vision/Dana14,Bidirectional Texture Function and 3D Texture.,incollection,https://doi.org/10.1007/978-0-387-31439-6_263,46-50
+215,reference/vision/X14jl,Video Alignment and Stitching.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100257,842
+216,reference/vision/BishopF14,Blind Deconvolution.,incollection,https://doi.org/10.1007/978-0-387-31439-6_771,52-57
+217,reference/vision/X14ej,Mirrorlike Reflection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100182,483
+218,reference/vision/Zhang14o,Geometric Calibration.,incollection,https://doi.org/10.1007/978-0-387-31439-6_167,333-338
+219,reference/vision/StelldingerL14,Digitization.,incollection,https://doi.org/10.1007/978-0-387-31439-6_645,212-217
+220,reference/vision/X14bp,Digital Matting.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100012,212
+221,reference/vision/X14ca,EM-Algorithm.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100260,247
+222,reference/vision/Liu14,Computational Symmetry.,incollection,https://doi.org/10.1007/978-0-387-31439-6_640,136-145
+223,reference/vision/Werman14,Affine Invariants.,incollection,https://doi.org/10.1007/978-0-387-31439-6_747,20-22
+224,reference/vision/X14df,Image-Based Rendering (IBR).,incollection,https://doi.org/10.1007/978-0-387-31439-6_100163,399
+225,reference/vision/X14an,Color Balance.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100142,109
+226,reference/vision/ReddyV14,Lens Flare and Lens Glare.,incollection,https://doi.org/10.1007/978-0-387-31439-6_481,445-447
+227,reference/vision/Seetharaman14,High-Performance Computing in Computer Vision.,incollection,https://doi.org/10.1007/978-0-387-31439-6_789,358-361
+228,reference/vision/X14dw,Lambertian Model.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100176,441
+229,reference/vision/X14at,Compressed Sensing.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100224,132
+230,reference/vision/X14fo,Opaque.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100200,564
+231,reference/vision/X14iz,Tracker-Camera Calibration.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100029,815
+232,reference/vision/X14ht,Shot Noise.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100150,737
+233,reference/vision/X14gc,Phong Model.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100178,592
+234,reference/vision/X14jw,von Kries-Ives Adaptation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100135,875
+235,reference/vision/SankaranarayananB14,Compressive Sensing.,incollection,https://doi.org/10.1007/978-0-387-31439-6_647,132-136
+236,reference/vision/X14fd,Normalcy Modeling.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100044,523
+237,reference/vision/Mamassian14,Shape from Shadows.,incollection,https://doi.org/10.1007/978-0-387-31439-6_260,724-725
+238,reference/vision/Koser14,Affine Registration.,incollection,https://doi.org/10.1007/978-0-387-31439-6_122,22-25
+239,reference/vision/DemirciSD14,Many-to-Many Graph Matching.,incollection,https://doi.org/10.1007/978-0-387-31439-6_775,472-477
+240,reference/vision/Lin14,Calibration of Radiometric Falloff (Vignetting).,incollection,https://doi.org/10.1007/978-0-387-31439-6_562,74-76
+241,reference/vision/X14dp,Ives Transform.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100134,434
+242,reference/vision/X14ec,Local Invariants.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100237,462
+243,reference/vision/Tsin14,Transparent Layers.,incollection,https://doi.org/10.1007/978-0-387-31439-6_561,819-827
+244,reference/vision/FlachH14a,Expectation Maximization Algorithm.,incollection,https://doi.org/10.1007/978-0-387-31439-6_692,265-268
+245,reference/vision/X14js,Visual Inference.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100297,869
+246,reference/vision/X14fu,Panoramic Camera.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100157,581
+247,reference/vision/Jia14,Matte Extraction.,incollection,https://doi.org/10.1007/978-0-387-31439-6_12,477-481
+248,reference/vision/X14cq,Gait Biometrics.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100110,309
+249,reference/vision/LiuMCRL14,Rigid Registration.,incollection,https://doi.org/10.1007/978-0-387-31439-6_184,681-691
+250,reference/vision/Wu14a,Data Augmentation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_741,165-166
+251,reference/vision/Zhang14e,Camera Extrinsic Parameters.,incollection,https://doi.org/10.1007/978-0-387-31439-6_154,77
+252,reference/vision/X14f,Adaptive Boosting.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100238,19
+253,reference/vision/X14eo,Motion Deblurring.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100281,498
+254,reference/vision/X14cs,Generalized Bas-Relief (GBR) Transformation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100187,325
+255,reference/vision/X14da,Human Motion Classification.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100111,362
+256,reference/vision/DickinsonB14,Geons.,incollection,https://doi.org/10.1007/978-0-387-31439-6_431,338-346
+257,reference/vision/Gupta14,Shape from Scatter.,incollection,https://doi.org/10.1007/978-0-387-31439-6_258,721-724
+258,reference/vision/X14ah,Clipping.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100151,100
+259,reference/vision/Ghosh14,Cook-Torrance Model.,incollection,https://doi.org/10.1007/978-0-387-31439-6_531,146-152
+260,reference/vision/FlachH14,Dynamic Programming.,incollection,https://doi.org/10.1007/978-0-387-31439-6_690,229-230
+261,reference/vision/Zhang14d,Camera Calibration.,incollection,https://doi.org/10.1007/978-0-387-31439-6_164,76-77
+262,reference/vision/Zheng14a,Algebraic Surface.,incollection,https://doi.org/10.1007/978-0-387-31439-6_427,29-31
+263,reference/vision/X14x,Boundary Extraction.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100045,64
+264,reference/vision/X14hj,Scale-Invariant Image Features and Image Descriptors.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100053,713
+265,reference/vision/X14jr,Vision-Based Feedback.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100080,860
+266,reference/vision/PoggioU14a,Visual Cortex Models for Object Recognition.,incollection,https://doi.org/10.1007/978-0-387-31439-6_794,862-866
+267,reference/vision/Zhang14t,Projection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_117,639
+268,reference/vision/X14t,Behavior Understanding.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100290,46
+269,reference/vision/Han14,Appearance-Based Human Tracking.,incollection,https://doi.org/10.1007/978-0-387-31439-6_369,38-40
+270,reference/vision/X14ij,Surface Reconstruction.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100086,781
+271,reference/vision/Schwartz14,Appearance-Based Human Detection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_368,36-38
+272,reference/vision/X14io,SW Cut.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100272,782
+273,reference/vision/X14b,Active Camera Calibration.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100081,5
+274,reference/vision/Brown14,Image Stitching.,incollection,https://doi.org/10.1007/978-0-387-31439-6_13,385-387
+275,reference/vision/Tuytelaars14,Wide Baseline Matching.,incollection,https://doi.org/10.1007/978-0-387-31439-6_191,888-891
+276,reference/vision/SnoekS14,Video Retrieval.,incollection,https://doi.org/10.1007/978-0-387-31439-6_74,847-850
+277,reference/vision/X14r,Automatic White Balance (AWB).,incollection,https://doi.org/10.1007/978-0-387-31439-6_100141,42
+278,reference/vision/X14jg,User-Guided.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100063,837
+279,reference/vision/Liu14a,Ellipse Fitting.,incollection,https://doi.org/10.1007/978-0-387-31439-6_318,240-247
+280,reference/vision/X14dd,Image Inverse Problems.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100051,379
+281,reference/vision/Zhang14l,Epipolar Geometry.,incollection,https://doi.org/10.1007/978-0-387-31439-6_128,247-258
+282,reference/vision/KarasevKT14,Numerical Methods in Curve Evolution Theory.,incollection,https://doi.org/10.1007/978-0-387-31439-6_705,523-531
+283,reference/vision/X14fi,Object Parameterizations.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100100,542
+284,reference/vision/X14hv,Situation Scheme.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100094,744
+285,reference/vision/X14dk,Inherent Optical Properties.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100195,401
+286,reference/vision/X14jn,Video Search.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100274,850
+287,reference/vision/X14jp,Visibility Enhancement in Bad Weather.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100193,860
+288,reference/vision/Zhang14m,Essential Matrix.,incollection,https://doi.org/10.1007/978-0-387-31439-6_129,258-259
+289,reference/vision/Kanatani14,Optimal Estimation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_714,569-572
+290,reference/vision/Koenderink14,Curves in Euclidean Three-Space.,incollection,https://doi.org/10.1007/978-0-387-31439-6_644,159-164
+291,reference/vision/Pont14,Asperity Scattering.,incollection,https://doi.org/10.1007/978-0-387-31439-6_636,40-42
+292,reference/vision/Zhang14j,Eight-Point Algorithm.,incollection,https://doi.org/10.1007/978-0-387-31439-6_156,239-240
+293,reference/vision/X14hw,Solid Texture.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100070,744
+294,reference/vision/X14ea,Lens Flare.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100147,445
+295,reference/vision/X14iv,Three Dimensional Estimation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100008,793
+296,reference/vision/X14bx,Dual Differential Geometry.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100293,229
+297,reference/vision/X14fk,Object Representations.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100101,542
+298,reference/vision/Zheng14c,Parametric Surface.,incollection,https://doi.org/10.1007/978-0-387-31439-6_391,588-589
+299,reference/vision/X14ex,Multiview Geometry.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100011,516
+300,reference/vision/X14ap,Color Discrepancy.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100127,116
+301,reference/vision/X14hq,Shadow.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100170,721
+302,reference/vision/Zhang14i,Depth Distortion.,incollection,https://doi.org/10.1007/978-0-387-31439-6_166,182-183
+303,reference/vision/Tan14c,Phong Reflectance Model.,incollection,https://doi.org/10.1007/978-0-387-31439-6_536,592-594
+304,reference/vision/X14ag,Clifford Algebra.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100235,100
+305,reference/vision/Zhang14f,Camera Model.,incollection,https://doi.org/10.1007/978-0-387-31439-6_165,77-80
+306,reference/vision/X14fc,Nonlinear Diffusion.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100243,523
+307,reference/vision/X14bs,Dimensional Embedding.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100231,218
+308,reference/vision/Estrada14,Denoising.,incollection,https://doi.org/10.1007/978-0-387-31439-6_484,177-179
+309,reference/vision/X14ba,Convex Minimization.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100252,146
+310,reference/vision/X14ff,Object Extraction.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100058,542
+311,reference/vision/X14ho,Semiautomatic.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100061,716
+312,reference/vision/X14eq,Multi-camera Calibration.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100026,501
+313,reference/vision/Sigal14,Human Pose Estimation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_584,362-370
+314,reference/vision/Sturm14d,Omnidirectional Vision.,incollection,https://doi.org/10.1007/978-0-387-31439-6_489,560-562
+315,reference/vision/X14ad,Camera-Shake Blur.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100168,85
+316,reference/vision/Goldluecke14a,Variational Analysis.,incollection,https://doi.org/10.1007/978-0-387-31439-6_683,839-840
+317,reference/vision/Miyazaki14,Fresnel Equations.,incollection,https://doi.org/10.1007/978-0-387-31439-6_569,305-307
+318,reference/vision/RamanathD14e,Standard Illuminants.,incollection,https://doi.org/10.1007/978-0-387-31439-6_448,755-759
+319,reference/vision/2014,"Computer Vision, A Reference Guide",book,https://doi.org/10.1007/978-0-387-31439-6,
+320,reference/vision/Elder14,Edge Detection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_217,231-235
+321,reference/vision/X14iu,Three Dimensional Descriptor.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100119,793
+322,reference/vision/X14bb,Cook-Torrance BRDF.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100175,146
+323,reference/vision/X14gs,Purposive Vision.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100075,654
+324,reference/vision/Viswanathan14,Data Fusion.,incollection,https://doi.org/10.1007/978-0-387-31439-6_298,166-168
+325,reference/vision/X14dv,Labeling.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100057,441
+326,reference/vision/Benenson14,Occlusion Detection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_135,549-551
+327,reference/vision/X14ch,Feature Reduction.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100089,291
+328,reference/vision/X14hb,Retinex Algorithm.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100192,677
+329,reference/vision/FavaroV14,AdaBoost.,incollection,https://doi.org/10.1007/978-0-387-31439-6_663,16-19
+330,reference/vision/X14dz,Lens Distortion Correction.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100027,443
+331,reference/vision/TakahashiM14,Eigenspace Methods.,incollection,https://doi.org/10.1007/978-0-387-31439-6_711,235-239
+332,reference/vision/Zhang14b,Calibration.,incollection,https://doi.org/10.1007/978-0-387-31439-6_160,65
+333,reference/vision/Langer14,Interreflections.,incollection,https://doi.org/10.1007/978-0-387-31439-6_524,423-424
+334,reference/vision/X14by,Dynamic Optimization.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100259,229
+335,reference/vision/Koppal14,Diffuse Reflectance.,incollection,https://doi.org/10.1007/978-0-387-31439-6_533,208-210
+336,reference/vision/X14gk,Principal Axis.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100145,636
+337,reference/vision/Zhang14u,Projection Transformation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_118,639-640
+338,reference/vision/X14cn,Fresnel Conditions.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100204,305
+339,reference/vision/X14o,Articulated Pose Estimation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100210,40
+340,reference/vision/X14dr,Karhunen-Love Transform (KLT).,incollection,https://doi.org/10.1007/978-0-387-31439-6_100226,437
+341,reference/vision/X14ab,"Camera Parameters (Internal, External).",incollection,https://doi.org/10.1007/978-0-387-31439-6_100019,81
+342,reference/vision/Barbu14,Swendsen-Wang Algorithm.,incollection,https://doi.org/10.1007/978-0-387-31439-6_721,783-785
+343,reference/vision/Zheng14b,Parametric Curve.,incollection,https://doi.org/10.1007/978-0-387-31439-6_412,586-587
+344,reference/vision/MicheloniF14,Situation Graph Trees.,incollection,https://doi.org/10.1007/978-0-387-31439-6_313,741-744
+345,reference/vision/Mundy14,Change Detection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_214,94-98
+346,reference/vision/Brox14,Diffusion Filtering.,incollection,https://doi.org/10.1007/978-0-387-31439-6_670,210-212
+347,reference/vision/RamanathD14g,White Balance.,incollection,https://doi.org/10.1007/978-0-387-31439-6_467,885-888
+348,reference/vision/X14hy,Sparse Representation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100096,748
+349,reference/vision/X14iy,Three Dimensional Reconstruction.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100255,793
+350,reference/vision/Zhang14k,Epipolar Constraint.,incollection,https://doi.org/10.1007/978-0-387-31439-6_127,247
+351,reference/vision/Tan14b,Oren-Nayar Reflectance Model.,incollection,https://doi.org/10.1007/978-0-387-31439-6_535,573-575
+352,reference/vision/X14ac,Camera Response Function.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100171,85
+353,reference/vision/Brox14b,Optical Flow.,incollection,https://doi.org/10.1007/978-0-387-31439-6_600,565-569
+354,reference/vision/X14er,Multimedia Retrieval.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100273,513
+355,reference/vision/X14cl,Focus Bracketing.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100122,305
+356,reference/vision/X14as,Color Specification Systems.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100125,132
+357,reference/vision/X14id,Stochastic Differential Equations in Infinite Dimensions.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100250,770
+358,reference/vision/X14jk,Velvety Reflectance.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100216,842
+359,reference/vision/Schneider14a,Visual Hull.,incollection,https://doi.org/10.1007/978-0-387-31439-6_211,866-869
+360,reference/vision/X14de,Image Mosaicing.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100014,379
+361,reference/vision/X14iw,Three Dimensional Face Modeling.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100105,793
+362,reference/vision/Tominaga14a,Dichromatic Reflection Model.,incollection,https://doi.org/10.1007/978-0-387-31439-6_532,191-193
+363,reference/vision/Boykov14,Interactive Segmentation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_250,416-422
+364,reference/vision/X14fr,Optimal Parameter Estimation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100268,572
+365,reference/vision/Lazebnik14,Generic Object Recognition.,incollection,https://doi.org/10.1007/978-0-387-31439-6_332,325-326
+366,reference/vision/X14ir,Terminological Logics.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100264,789
+367,reference/vision/Zhang14r,Perspective Camera.,incollection,https://doi.org/10.1007/978-0-387-31439-6_114,590-592
+368,reference/vision/GallupP14,Plane Sweeping.,incollection,https://doi.org/10.1007/978-0-387-31439-6_205,616-618
+369,reference/vision/X14gw,Reflection Mapping.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100017,677
+370,reference/vision/Zheng14d,Splines.,incollection,https://doi.org/10.1007/978-0-387-31439-6_419,753-755
+371,reference/vision/X14im,Surfaces.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100220,782
+372,reference/vision/Koenderink14b,Isotropic Differential Geometry in Graph Spaces.,incollection,https://doi.org/10.1007/978-0-387-31439-6_780,429-433
+373,reference/vision/LangguthG14,Irradiance.,incollection,https://doi.org/10.1007/978-0-387-31439-6_527,428-429
+374,reference/vision/CohenS14,Lumigraph.,incollection,https://doi.org/10.1007/978-0-387-31439-6_8,462-467
+375,reference/vision/Joshi14,Defocus Blur.,incollection,https://doi.org/10.1007/978-0-387-31439-6_511,171-173
+376,reference/vision/RamanathD14c,Penumbra and Umbra.,incollection,https://doi.org/10.1007/978-0-387-31439-6_513,589-590
+377,reference/vision/Sturm14f,Pinhole Camera Model.,incollection,https://doi.org/10.1007/978-0-387-31439-6_472,610-613
+378,reference/vision/Fisher14,Subpixel Estimation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_189,775-777
+379,reference/vision/X14cc,Error Concealment.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100055,258
+380,reference/vision/Tombari14,Three Dimensional Shape Descriptor.,incollection,https://doi.org/10.1007/978-0-387-31439-6_423,793-797
+381,reference/vision/X14dg,Implicit Polynomial Curve.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100116,399
+382,reference/vision/Jenkin14,Evolution of Robotic Heads.,incollection,https://doi.org/10.1007/978-0-387-31439-6_277,263-265
+383,reference/vision/Welch14,Kalman Filter.,incollection,https://doi.org/10.1007/978-0-387-31439-6_716,435-437
+384,reference/vision/X14bk,Differential Geometry of Graph Spaces.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100292,193
+385,reference/vision/ShenH14,Semidefinite Programming.,incollection,https://doi.org/10.1007/978-0-387-31439-6_688,717-719
+386,reference/vision/X14z,BRDF Models.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100180,64
+387,reference/vision/X14j,Analytic Reflectance Functions.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100179,31
+388,reference/vision/X14gr,Pulling a Matte.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100013,654
+389,reference/vision/Johnson14,Retinex Theory.,incollection,https://doi.org/10.1007/978-0-387-31439-6_547,677-679
+390,reference/vision/X14fj,Object Recognition.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100114,542
+391,reference/vision/X14fm,Occlusion Boundaries from Motion.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100954,549
+392,reference/vision/Tan14,Dehazing and Defogging.,incollection,https://doi.org/10.1007/978-0-387-31439-6_553,174-177
+393,reference/vision/X14am,Color Appearance Models.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100129,109
+394,reference/vision/X14al,Color Adaptation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100133,109
+395,reference/vision/Dorst14,Geometric Algebra.,incollection,https://doi.org/10.1007/978-0-387-31439-6_656,329-333
+396,reference/vision/X14hx,Space Curves.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100222,744
+397,reference/vision/Matthies14,Obstacle Detection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_52,543-549
+398,reference/vision/X14bh,Dense 3D Modeling.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100039,179
+399,reference/vision/X14ju,Visual SLAM.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100078,874
+400,reference/vision/Young14,Spatiotemporal Reasoning.,incollection,https://doi.org/10.1007/978-0-387-31439-6_315,748-749
+401,reference/vision/X14cf,Extrinsic Parameters.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100022,278
+402,reference/vision/X14gl,Principal Distance.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100140,639
+403,reference/vision/Zheng14,Algebraic Curve.,incollection,https://doi.org/10.1007/978-0-387-31439-6_403,27-29
+404,reference/vision/Pont14a,Retroreflection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_575,679-680
+405,reference/vision/X14ga,Performance Capture.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100050,590
+406,reference/vision/X14dy,Learning from Partial Labels.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100092,443
+407,reference/vision/X14fq,Optical Center.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100137,565
+408,reference/vision/Ramalingam14a,Center of Projection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_458,89-94
+409,reference/vision/X14i,Affordances.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100284,25
+410,reference/vision/Maybank14,Fisher-Rao Metric.,incollection,https://doi.org/10.1007/978-0-387-31439-6_657,298-300
+411,reference/vision/X14ha,Retina.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100144,677
+412,reference/vision/Baker14,Inverse Compositional Algorithm.,incollection,https://doi.org/10.1007/978-0-387-31439-6_759,426-428
+413,reference/vision/Varshney14,Sensor Fusion.,incollection,https://doi.org/10.1007/978-0-387-31439-6_301,719-721
+414,reference/vision/Sinha14,Multiview Stereo.,incollection,https://doi.org/10.1007/978-0-387-31439-6_203,516-522
+415,reference/vision/X14n,Appearance-Based Pedestrian Detection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100106,40
+416,reference/vision/X14en,Motion Capturing.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100048,498
+417,reference/vision/Sturm14b,Focal Length.,incollection,https://doi.org/10.1007/978-0-387-31439-6_464,303-305
+418,reference/vision/X14dx,Lambert's Law.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100177,443
+419,reference/vision/Miyazaki14a,Polarizer.,incollection,https://doi.org/10.1007/978-0-387-31439-6_572,634-636
+420,reference/vision/X14v,Blur Kernel Estimation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100164,59
+421,reference/vision/X14cr,Gaze Control.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100076,325
+422,reference/vision/Gallup14,Multi-baseline Stereo.,incollection,https://doi.org/10.1007/978-0-387-31439-6_199,498-501
+423,reference/vision/Laurendeau14,Three Dimensional View Integration.,incollection,https://doi.org/10.1007/978-0-387-31439-6_296,797-812
+424,reference/vision/X14jz,Wide-angle Camera.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100159,891
+425,reference/vision/X14aj,Coefficient Rule.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100132,100
+426,reference/vision/X14co,Fresnel's Law.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100205,307
+427,reference/vision/Furukawa14,Photo-Consistency.,incollection,https://doi.org/10.1007/978-0-387-31439-6_204,595-597
+428,reference/vision/X14jh,Variable Selection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100090,839
+429,reference/vision/Zhang14v,Reference Plane.,incollection,https://doi.org/10.1007/978-0-387-31439-6_169,669-671
+430,reference/vision/LiLZ14,Activity Recognition.,incollection,https://doi.org/10.1007/978-0-387-31439-6_63,13-16
+431,reference/vision/X14hi,Robust Regression.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100228,697
+432,reference/vision/X14gi,Polarization Filter.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100207,629
+433,reference/vision/X14is,Texture Classification.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100097,789
+434,reference/vision/X14ey,Mutual Illumination.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100173,522
+435,reference/vision/Caimi14,Underwater Effects.,incollection,https://doi.org/10.1007/978-0-387-31439-6_556,831-837
+436,reference/vision/X14hl,Schott Noise.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100149,713
+437,reference/vision/Goldluecke14b,Variational Method.,incollection,https://doi.org/10.1007/978-0-387-31439-6_684,840-842
+438,reference/vision/Torresani14,Weakly Supervised Learning.,incollection,https://doi.org/10.1007/978-0-387-31439-6_308,883-885
+439,reference/vision/X14aq,Color Dissimilarity.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100128,116
+440,reference/vision/X14bt,Dioptrics.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100154,221
+441,reference/vision/X14hk,Scene/Image Parsing.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100064,713
+442,reference/vision/X14fv,Panoramic Image Generation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100256,581
+443,reference/vision/Matsushita14a,Radiometric Response Function.,incollection,https://doi.org/10.1007/978-0-387-31439-6_521,658-660
+444,reference/vision/Alterman14,Multiplexed Illumination.,incollection,https://doi.org/10.1007/978-0-387-31439-6_543,513-516
+445,reference/vision/Treibitz14,Descattering.,incollection,https://doi.org/10.1007/978-0-387-31439-6_554,186-189
+446,reference/vision/X14ib,Spherical Camera.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100158,752
+447,reference/vision/Hasler14,Motion Capture.,incollection,https://doi.org/10.1007/978-0-387-31439-6_21,495-498
+448,reference/vision/X14ed,LP.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100225,462
+449,reference/vision/HogueJ14,Active Stereo Vision.,incollection,https://doi.org/10.1007/978-0-387-31439-6_282,8-12
+450,reference/vision/Scaramuzza14,Omnidirectional Camera.,incollection,https://doi.org/10.1007/978-0-387-31439-6_488,552-560
+451,reference/vision/MeerM14,Robust Methods.,incollection,https://doi.org/10.1007/978-0-387-31439-6_650,691-697
+452,reference/vision/X14ak,Cognitive Agent.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100303,100
+453,reference/vision/Chan14b,Plenoptic Function.,incollection,https://doi.org/10.1007/978-0-387-31439-6_7,618-623
+454,reference/vision/Lin14c,Incident Light Measurement.,incollection,https://doi.org/10.1007/978-0-387-31439-6_637,400-401
+455,reference/vision/Zhang14h,Camera Pose.,incollection,https://doi.org/10.1007/978-0-387-31439-6_153,85
+456,reference/vision/Chan14,Image-Based Rendering.,incollection,https://doi.org/10.1007/978-0-387-31439-6_4,392-399
+457,reference/vision/Morariu14,Linguistic Techniques for Event Recognition.,incollection,https://doi.org/10.1007/978-0-387-31439-6_351,461-462
+458,reference/vision/LiuZ14,Face Modeling.,incollection,https://doi.org/10.1007/978-0-387-31439-6_355,285-288
+459,reference/vision/ParameswaranV14,View and Rate-Invariant Human Action Recognition.,incollection,https://doi.org/10.1007/978-0-387-31439-6_777,850-854
+460,reference/vision/X14cv,Geometric Fusion.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100085,338
+461,reference/vision/X14a,Action Recognition.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100217,5
+462,reference/vision/HoriuchiT14,Color Similarity.,incollection,https://doi.org/10.1007/978-0-387-31439-6_450,121-123
+463,reference/vision/X14k,Anisotropic Diffusion.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100240,36
+464,reference/vision/X14ci,Field of Vision.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100139,297
+465,reference/vision/MaH14,Hand-Eye Calibration.,incollection,https://doi.org/10.1007/978-0-387-31439-6_168,355-358
+466,reference/vision/X14eh,Microgeometry.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100068,483
+467,reference/vision/RamanathD14,Blackbody Radiation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_565,50-52
+468,reference/vision/X14hr,Shape from Outlines of Projection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100213,721
+469,reference/vision/X14ih,Surface Corrugations.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100185,781
+470,reference/vision/X14az,Contour Detection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100046,146
+471,reference/vision/X14bv,Disocclusion.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100054,229
+472,reference/vision/X14d,Active Vision.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100074,13
+473,reference/vision/X14ip,Symmetry Detection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100219,788
+474,reference/vision/X14bo,Diffusion PDEs.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100241,212
+475,reference/vision/Clark14,Active Sensor (Eye) Movement Control.,incollection,https://doi.org/10.1007/978-0-387-31439-6_278,5-8
+476,reference/vision/X14jm,Video Mosaicking.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100258,847
+477,reference/vision/Okatani14,Curvature.,incollection,https://doi.org/10.1007/978-0-387-31439-6_405,154-159
+478,reference/vision/SchindlerF14,Photogrammetry.,incollection,https://doi.org/10.1007/978-0-387-31439-6_139,597-599
+479,reference/vision/X14hf,Rigid Transformation Estimation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100035,691
+480,reference/vision/CamilliP14,Viscosity Solution.,incollection,https://doi.org/10.1007/978-0-387-31439-6_686,856-860
+481,reference/vision/Goldluecke14,Total Variation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_682,812-815
+482,reference/vision/RamanathD14f,von Kries Hypothesis.,incollection,https://doi.org/10.1007/978-0-387-31439-6_455,874-875
+483,reference/vision/X14dj,Information Fusion.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100087,401
+484,reference/vision/Lang14,Stochastic Partial Differential Equations.,incollection,https://doi.org/10.1007/978-0-387-31439-6_681,770-775
+485,reference/vision/X14fp,Optic Flow.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100214,564
+486,reference/vision/X14jj,Veiling Glare.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100148,842
+487,reference/vision/X14hc,Rigid Alignment.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100031,681
+488,reference/vision/XuP14,Gradient Vector Flow.,incollection,https://doi.org/10.1007/978-0-387-31439-6_712,349-354
+489,reference/vision/X14,Action Prototype Trees.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100112,1-5
+490,reference/vision/X14cj,Filling In.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100056,297
+491,reference/vision/Bajcsy14,Rationale for Computational Vision.,incollection,https://doi.org/10.1007/978-0-387-31439-6_270,660-663
+492,reference/vision/X14ic,Statistical Cooling.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100247,759
+493,reference/vision/Matsushita14,Radiometric Calibration.,incollection,https://doi.org/10.1007/978-0-387-31439-6_522,656-658
+494,reference/vision/Sinha14a,Pan-Tilt-Zoom (PTZ) Camera.,incollection,https://doi.org/10.1007/978-0-387-31439-6_496,581-586
+495,reference/vision/KangH14,Extended Gaussian Image (EGI).,incollection,https://doi.org/10.1007/978-0-387-31439-6_651,275-278
+496,reference/vision/X14ix,Three Dimensional Modeling from Images.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100953,793
+497,reference/vision/X14y,BRDF Measurement.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100190,64
+498,reference/vision/X14ei,Micro Scale Structure.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100184,483
+499,reference/vision/Ihrke14,Opacity.,incollection,https://doi.org/10.1007/978-0-387-31439-6_564,562-564
+500,reference/vision/Zhang14c,Calibration of Projective Cameras.,incollection,https://doi.org/10.1007/978-0-387-31439-6_163,73-74
+501,reference/vision/Ballard14,Animat Vision.,incollection,https://doi.org/10.1007/978-0-387-31439-6_273,31-36
+502,reference/vision/X14fn,Occlusion Boundaries from Stereo Matching.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100955,549
+503,reference/vision/Lazebnik14a,Object Class Recognition (Categorization).,incollection,https://doi.org/10.1007/978-0-387-31439-6_337,533-536
+504,reference/vision/X14bl,Diffuse Shading.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100958,210
+505,reference/vision/Ebner14,Color Constancy.,incollection,https://doi.org/10.1007/978-0-387-31439-6_454,109-116
+506,reference/vision/X14ds,Kernel Estimation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100280,437
+507,reference/vision/LinJD14,Prototype-Based Methods for Human Movement Modeling.,incollection,https://doi.org/10.1007/978-0-387-31439-6_378,651-654
+508,reference/vision/X14jy,Wide Field of View Stereo Matching.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100037,891
+509,reference/vision/Atkinson14,Polarization.,incollection,https://doi.org/10.1007/978-0-387-31439-6_570,624-629
+510,reference/vision/Sturm14e,Optical Axis.,incollection,https://doi.org/10.1007/978-0-387-31439-6_471,564-565
+511,reference/vision/X14ia,Specular Highlight.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100183,749
+512,reference/vision/X14il,Surface Undulations.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100186,782
+513,reference/vision/Kurita14,Principal Component Analysis (PCA).,incollection,https://doi.org/10.1007/978-0-387-31439-6_649,636-639
+514,reference/vision/Woodham14,Reflectance Map.,incollection,https://doi.org/10.1007/978-0-387-31439-6_546,671-674
+515,reference/vision/X14es,Multiple Similarity Method.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100265,513
+516,reference/vision/X14ja,Transparency.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100198,815
+517,reference/vision/ChellappaT14,Feature Selection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_299,291-294
+518,reference/vision/Brill14a,Trichromatic Theory.,incollection,https://doi.org/10.1007/978-0-387-31439-6_453,827-829
+519,reference/vision/X14cu,Geodesic Active Contour.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100275,327
+520,reference/vision/X14ct,Generically Describable Situation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100093,327
+521,reference/vision/X14gh,Point Spread Function Estimation.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100165,623
+522,reference/vision/X14cz,Human Appearance Modeling and Tracking.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100107,362
+523,reference/vision/Zhang14w,Weak Perspective Projection.,incollection,https://doi.org/10.1007/978-0-387-31439-6_115,877-883
+524,reference/vision/ChariV14,"Lens Distortion, Radial Distortion.",incollection,https://doi.org/10.1007/978-0-387-31439-6_479,443-445
+525,reference/vision/X14bn,Diffusion.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100242,210
+526,reference/vision/X14fg,Object Models.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100099,542
+527,reference/vision/Zhang14,Affine Camera.,incollection,https://doi.org/10.1007/978-0-387-31439-6_790,19-20
+528,reference/vision/Weiss14,Differential Invariants.,incollection,https://doi.org/10.1007/978-0-387-31439-6_658,201-208
+529,reference/vision/Lin14b,"Illumination Estimation, Illuminant Estimation.",incollection,https://doi.org/10.1007/978-0-387-31439-6_516,371-373
+530,reference/vision/X14aa,Calculus of Variations.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100251,65
+531,reference/vision/X14go,Projective Structure and Motion.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100296,651
+532,reference/vision/Brill14,Chromaticity.,incollection,https://doi.org/10.1007/978-0-387-31439-6_451,98-100
+533,reference/vision/Kim14,Calibration of Multi-camera Setups.,incollection,https://doi.org/10.1007/978-0-387-31439-6_162,69-72
+534,reference/vision/X14ai,Cluster Sampling.,incollection,https://doi.org/10.1007/978-0-387-31439-6_100271,100
+535,reference/cn/Truccolo14,Population Encoding/Decoding.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_400-1,
+536,reference/cn/CurthoysM14,Vestibular Eye Movement Testing.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_734-1,
+537,reference/cn/DaiS14,"Vestibular Prosthesis, Interface.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_13-7,
+538,reference/cn/Malmierca14,Anatomy and Physiology of the Mammalian Auditory System.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_286-1,
+539,reference/cn/Kotaleski14,"Signaling Pathways, Modeling of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_195-1,
+540,reference/cn/Bowden14,BrainInfo.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_485-1,
+541,reference/cn/GuantesAP14,Biophysics of Adaptation in a Computational Model of the Leech T Neuron.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_327-1,
+542,reference/cn/YuBNHN14,Physiome Repository.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_168-1,
+543,reference/cn/Torben-Nielsen14,Synthetic Neuronal Morphology.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_238-2,
+544,reference/cn/BoseN14,Multistability Arising from Synaptic Dynamics.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_272-1,
+545,reference/cn/LimWB14,Central Vestibular Signal Processing.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_3-2,
+546,reference/cn/Kinzer-Ursem14,Metabotropic Receptors (G Protein-Coupled Receptors).,incollection,https://doi.org/10.1007/978-1-4614-7320-6_190-2,
+547,reference/cn/Potthast14,Amari Model.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_51-2,
+548,reference/cn/MorleyC14,Retinal Neurophysiology.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_660-1,
+549,reference/cn/NeymotinTML14,Brain Ischemia and Stroke.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_736-1,
+550,reference/cn/Nadim14,Invertebrate Pattern Generation: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_755-2,
+551,reference/cn/DestexheB14,Local Field Potentials (LFP).,incollection,https://doi.org/10.1007/978-1-4614-7320-6_548-1,
+552,reference/cn/Macke14,"Electrophysiology Analysis, Bayesian.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_448-1,
+553,reference/cn/Knosche14b,Jansen-Rit Model.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_65-2,
+554,reference/cn/RosaMBP14,Local Field Potential and Deep Brain Stimulation (DBS).,incollection,https://doi.org/10.1007/978-1-4614-7320-6_547-1,
+555,reference/cn/Hilgetag14,Connectivity Analysis in Normal and Pathological Brains.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_532-1,
+556,reference/cn/Harrison14,Significance Evaluation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_404-1,
+557,reference/cn/CrookGCVS14,NeuroML.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_96-1,
+558,reference/cn/DurrK14,Tactile Sensing in Insects.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_641-1,
+559,reference/cn/Spratling14,Predictive Coding.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_509-6,
+560,reference/cn/Fuentes14,Spinal Stimulation for Parkinson Treatment.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_600-4,
+561,reference/cn/Sterratt14d,Q10: The Effect of Temperature on Ion Channel Kinetics.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_236-1,
+562,reference/cn/Choe14d,Hebbian Learning.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_672-1,
+563,reference/cn/MeijS14,Digital Filtering.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_413-1,
+564,reference/cn/NowotnyL14,Voltage-Clamp Technique.,incollection,https://www.wikidata.org/entity/Q56384760,
+565,reference/cn/Maex14,Nernst-Planck Equation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_233-1,
+566,reference/cn/Renaud14,Neuromorphic Engineering: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_765-1,
+567,reference/cn/Knosche14,"Bifurcations, Neural Population Models and.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_53-2,
+568,reference/cn/OrsbornC14,Functional Neuroscience: Cortical Control of Limb Prosthesis.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_505-2,
+569,reference/cn/HukKY14,Accumulation of Evidence in Decision Making.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_309-2,
+570,reference/cn/Jirsa14a,Synaptic Connectivity in Neural Population Models.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_78-1,
+571,reference/cn/Holmes14,Cable Equation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_478-1,
+572,reference/cn/Weiland14a,"Visual Prosthesis, Epiretinal Devices.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_663-1,
+573,reference/cn/Binder14,"Brainstem Motoneurons, Models of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_742-1,
+574,reference/cn/Golowasch14,Stability and Homeostasis in Small Network Central Pattern Generators.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_466-1,
+575,reference/cn/FiddymentSK14,Functional Network Observations of Diseased Brain States.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_440-2,
+576,reference/cn/PopovychT14,Computational Model-Based Development of Novel Stimulation Algorithms.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_124-1,
+577,reference/cn/Prescott14b,Pain Processing Pathway Models.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_250-1,
+578,reference/cn/NakagawaD14,Multiscale Brain Connectivity.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_535-1,
+579,reference/cn/Klassen14,Epilepsy: Abnormal Ion Channels.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_739-1,
+580,reference/cn/Lewis14,Computation with Serotonergic Modulation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_633-1,
+581,reference/cn/SolinasMS14,High-Voltage-Activated Calcium Channels.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_230-1,
+582,reference/cn/KlassenC14,"Neuropharmacological Modeling, Pharmacogenomics and Ion Channel Modulation.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_715-1,
+583,reference/cn/RubinM14,Computational Models of Deep Brain Stimulation (DBS).,incollection,https://doi.org/10.1007/978-1-4614-7320-6_364-1,
+584,reference/cn/Phillips14,"Sleep, Neural Population Models of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_76-1,
+585,reference/cn/Borst14,Visual Motion Detection in Drosophila.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_329-2,
+586,reference/cn/Murray14,General Overview of Spinal Anatomy and Physiology Organization.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_601-1,
+587,reference/cn/Krapp14,Optic Flow Processing.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_332-1,
+588,reference/cn/WendlingM14,"Epilepsy, Neural Population Models of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_58-1,
+589,reference/cn/BadreldinO14,Neural Decoding.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_559-1,
+590,reference/cn/Suaning14,"Visual Prosthesis, Suprachoroidal, and Trans-retinal Devices.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_668-1,
+591,reference/cn/JouclaY14,Finite Element Modeling of Electrical Stimulation Using Microelectrodes.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_596-1,
+592,reference/cn/Lovell14,"Retinal/Visual Interfaces (Models, Theory, Techniques): Overview.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_789-1,
+593,reference/cn/Bensmaia14,Somatosensory Prosthesis.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_561-1,
+594,reference/cn/Grun14,Spike Train Analysis: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_776-1,
+595,reference/cn/Dupont14,"Calcium Release, Models of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_181-3,
+596,reference/cn/TelenczukD14,"Local Field Potential, Relationship to Unit Activity.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_543-1,
+597,reference/cn/Wojcik14,Current Source Density (CSD) Analysis.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_544-1,
+598,reference/cn/Grun14a,Surrogate Data for Evaluation of Spike Correlation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_411-1,
+599,reference/cn/Borisyuk14,Dynamical Systems: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_768-1,
+600,reference/cn/Osorio14,Multistability: Stopping Events with Single Pulses.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_508-3,
+601,reference/cn/MahanG14,Neuronal Population Vector.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_401-1,
+602,reference/cn/Blackwell14b,Modeling of Enzyme Kinetics.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_187-1,
+603,reference/cn/SennP14,Reinforcement Learning in Cortical Networks.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_580-2,
+604,reference/cn/LemayG14,Intraspinal Stimulation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_594-1,
+605,reference/cn/Bhadra14,Peripheral Nerve Interface Applications: Neuropathic Pain.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_203-1,
+606,reference/cn/Bose14,Bifurcations Dynamics of Single Neurons and Small Networks.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_453-1,
+607,reference/cn/Deneve14,Bayesian Inference with Spiking Neurons.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_568-1,
+608,reference/cn/Baillet14,Forward and Inverse Problems of MEG/EEG.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_529-1,
+609,reference/cn/WeberM14,"Sensory Coding, Efficiency.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_325-1,
+610,reference/cn/Stein14,Sensory Input to Central Pattern Generators.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_465-3,
+611,reference/cn/Gershman14,"Behavioural Analysis, Bayesian.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_446-1,
+612,reference/cn/Bertram14,Endocrine Cell Function and Dysfunction.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_747-6,
+613,reference/cn/RoslinB14,"Peripheral Nerve Interface Applications, Obesity.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_204-1,
+614,reference/cn/BarrettS14,Directed Spectral Methods.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_414-1,
+615,reference/cn/Oxenham14,Masking and Masking Release.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_432-1,
+616,reference/cn/Milton14,Dynamics of Disease States: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_781-2,
+617,reference/cn/Miller14a,"Decision Making, Threshold.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_315-6,
+618,reference/cn/Gleeson14b,neuroConstruct.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_94-1,
+619,reference/cn/WinkelsteinJ14,Biomechanical Model of Low Back Pain.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_587-2,
+620,reference/cn/Cohen14,Deep Cerebellar Nuclei.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_469-1,
+621,reference/cn/TassH14,"Deep Brain Stimulation (Models, Theory, Techniques): Overview.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_284-1,
+622,reference/cn/Shamma14,Spectro-Temporal Receptive Fields.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_437-1,
+623,reference/cn/GutigS14,Tempotron Learning.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_685-1,
+624,reference/cn/GuptaS14,Insect Olfaction: A Model System for Neural Circuit Modeling.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_338-1,
+625,reference/cn/AckermannB14,Peripheral Nerve Stimulation Technique: Nerve Block.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_219-1,
+626,reference/cn/LinaroG14,Markov Models of Ion Channels.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_131-1,
+627,reference/cn/Gabbiani14,Invertebrate Sensory Systems: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_482-1,
+628,reference/cn/Marc14,Retinal Disease and Remodeling.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_659-1,
+629,reference/cn/Steyn-RossSS14a,"Gap Junctions, Neural Population Models and.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_62-2,
+630,reference/cn/Clopath14,"Long-Term Plasticity, Biophysical Models.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_351-1,
+631,reference/cn/Weiland14,Vision Prosthesis.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_563-1,
+632,reference/cn/Tabot14,Proprioception.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_381-1,
+633,reference/cn/Geit14,Hybrid Parameter Optimization Methods.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_164-1,
+634,reference/cn/BendaT14,Spike-Frequency Adaptation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_339-1,
+635,reference/cn/Hyvarinen14,Independent Component Analysis of Images.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_708-1,
+636,reference/cn/Olifer14,Neuronal Parameter Sensitivity.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_172-1,
+637,reference/cn/BakkerD14,Collations of Connectivity Data on the Macaque Brain (CoCoMac).,incollection,https://doi.org/10.1007/978-1-4614-7320-6_695-1,
+638,reference/cn/WilsonF14,Subthalamic Nucleus Cellular Models.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_90-3,
+639,reference/cn/Jackson14a,"Theta, Gamma, and Cross-Frequency Coupling in the Hippocampus.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_30-1,
+640,reference/cn/Schiefer14,Peripheral Nerve Models.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_213-3,
+641,reference/cn/Anastasio14a,Modeling Cerebellar Learning: Input Minimization.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_264-2,
+642,reference/cn/Hutt14,"Neural Field Model, Continuum.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_67-3,
+643,reference/cn/LiuS14,"Neuromorphic Sensors, Cochlea.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_118-1,
+644,reference/cn/MiglioreM14,Olfactory Computation in Mitral-Granule Cell Circuits.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_615-4,
+645,reference/cn/Li14,Biophysical Models of Olfactory Mitral and Granule Cells.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_606-4,
+646,reference/cn/Bensmaia14a,Somatosensory System: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_775-1,
+647,reference/cn/Molaee-ArdekaniW14,"Transfer Function, Electrocortical.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_79-1,
+648,reference/cn/Schulz14,Neuronal Parameter Co-regulation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_170-1,
+649,reference/cn/Dahlem14,Migraines and Cortical Spreading Depression.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_507-6,
+650,reference/cn/Knowlton14,Basal Ganglia: Habit Formation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_517-1,
+651,reference/cn/Goaillard14,Neuronal Parameter Non-uniqueness.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_171-1,
+652,reference/cn/SchultzIP14,Applications of Information Theory to Analysis of Neural Data.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_280-1,
+653,reference/cn/Choe14e,Physical Sectioning Microscopy.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_92-2,
+654,reference/cn/Imaizumi14,Auditory Thalamocortical Transformations.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_102-6,
+655,reference/cn/ParekhA14,NeuroMorpho.org.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_640-2,
+656,reference/cn/LiC14,Auditory Memory.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_244-2,
+657,reference/cn/Gewaltig14,Spiking Network Models and Theory: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_792-3,
+658,reference/cn/Torres14,Boltzmann Machine.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_676-1,
+659,reference/cn/TripathyG14,NeuroElectro Project.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_477-1,
+660,reference/cn/Bressloff14,Stochastic Neural Field Theory.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_77-3,
+661,reference/cn/Holmes14b,Dendritic Spines.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_132-1,
+662,reference/cn/Rosenbaum14,"Short Term Plasticity, Biophysical Models.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_358-1,
+663,reference/cn/Netoff14b,Spike Time Response Curve.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_270-1,
+664,reference/cn/Yoshida14,"Peripheral Nerve Signal Processing, Denoising.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_215-1,
+665,reference/cn/BojakB14,"Neuroimaging, Neural Population Models for.",incollection,https://www.wikidata.org/entity/Q60494597,
+666,reference/cn/BalasubramanianH14,Cortical Motor Prosthesis.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_705-1,
+667,reference/cn/RiedelRFUEFL14,BrainMap.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_486-1,
+668,reference/cn/Heil14,"Auditory Nerve Response, Afferent Signals.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_424-6,
+669,reference/cn/Anastasio14,Application of Declarative Programming in Neurobiology.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_749-7,
+670,reference/cn/LempkaM14a,Resistivity/Conductivity of Extracellular Medium.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_549-1,
+671,reference/cn/Stiefel14,"Phase Resetting, Measurement of Infinitessimal.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_267-1,
+672,reference/cn/Holmes14d,Equivalent Cylinder Model (Rall).,incollection,https://doi.org/10.1007/978-1-4614-7320-6_33-1,
+673,reference/cn/Durand14,"Peripheral Nerve Interface Applications, Sleep Apnea.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_207-1,
+674,reference/cn/Liang14,Wavelet Analysis.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_422-1,
+675,reference/cn/HinesC14,NEURON Simulation Environment.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_795-1,
+676,reference/cn/Shinn-Cunningham14,Auditory Precedence Effect.,incollection,https://www.wikidata.org/entity/Q59699691,
+677,reference/cn/Choe14b,Computational Neuroanatomy: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_50-1,
+678,reference/cn/Matveev14,"Calcium-Dependent Exocytosis, Biophysical Models of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_178-1,
+679,reference/cn/Schemmel14,"Neuromorphic Hardware, Large Scale.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_115-4,
+680,reference/cn/Heckman14,Computational Models of Motor Pools.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_370-1,
+681,reference/cn/Holmes14a,Cable Theory: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_757-1,
+682,reference/cn/Palanker14,Retinal Prostheses for Restoration of Sight.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_665-1,
+683,reference/cn/Gleeson14a,Synthetic Neuronal Circuits/Networks.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_289-1,
+684,reference/cn/He14,Electrocorticogram (ECoG).,incollection,https://doi.org/10.1007/978-1-4614-7320-6_545-1,
+685,reference/cn/Prescott14,Chloride Channels.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_226-1,
+686,reference/cn/ChenB14a,State-Space Models for the Analysis of Neural Spike Train and Behavioral Data.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_410-1,
+687,reference/cn/Rothman14,Modeling Synapses.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_240-1,
+688,reference/cn/PlesserDGM14,NEST: The Neural Simulation Tool.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_258-5,
+689,reference/cn/Miller14,"Decision Making, Models.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_312-3,
+690,reference/cn/BhariokeSCM14,Drosophila Connectome.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_275-1,
+691,reference/cn/Gastpar14,Directed Information Flow and Causality in Neural Systems.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_141-1,
+692,reference/cn/Guinan14,Physiology and Function of Cochlear Efferents.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_431-1,
+693,reference/cn/Saal14,Somatosensory Neurons: Spike Timing.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_387-2,
+694,reference/cn/Engel14,Sodium Channels.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_134-1,
+695,reference/cn/Bota14,Brain Architecture Management System (BAMS).,incollection,https://doi.org/10.1007/978-1-4614-7320-6_692-1,
+696,reference/cn/MartinezMN14,Short-Term Synaptic Plasticity in Central Pattern Generators.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_467-1,
+697,reference/cn/Dhamala14,Spectral Interdependency Methods.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_420-2,
+698,reference/cn/BrunelH14a,Population Density Models.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_74-1,
+699,reference/cn/Elbasiouny14,Morphologically Detailed Motoneuron Models.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_371-1,
+700,reference/cn/Yousif14,Computational Models Supporting Parameter Finding for Deep Brain Stimulation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_367-1,
+701,reference/cn/Matveev14a,"Facilitation, Biophysical Models.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_347-2,
+702,reference/cn/KaiserH14,"Wiring Principles, Optimization.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_291-2,
+703,reference/cn/Steyn-RossSS14b,"Phase Transitions, Neural Population Models and.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_73-2,
+704,reference/cn/KuznetsovG14,Dopaminergic Cell Models.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_86-2,
+705,reference/cn/Bressler14,Spectral Methods in Neural Data Analysis: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_777-1,
+706,reference/cn/Kass14,Spike Train.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_408-1,
+707,reference/cn/Queisser14,"Transcriptional Control Dysfunction, Modeling.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_717-3,
+708,reference/cn/Baer14,Dendritic Spines: Continuum Theory.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_797-1,
+709,reference/cn/ChoeKMA14,"Connectome, Mouse.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_276-1,
+710,reference/cn/Lemay14,Spinal Interfaces: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_785-2,
+711,reference/cn/JuusolaSH14,Phototransduction Biophysics.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_333-1,
+712,reference/cn/Garwicz14,Olivocerebellar Pathway.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_688-1,
+713,reference/cn/Hipp14,Time-Frequency Analysis.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_421-1,
+714,reference/cn/Sharott14,"Local Field Potential, Methods of Recording.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_723-1,
+715,reference/cn/Choe14c,"Connectome, General.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_277-1,
+716,reference/cn/Cymbalyuk14,Multistability in Neurodynamics: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_442-1,
+717,reference/cn/Toporikova14,Pre-Botzinger Complex Rhythm Generation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_252-2,
+718,reference/cn/NowotnyM14,Patch Clamp Technique.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_133-3,
+719,reference/cn/HowellG14,Computational Models to Optimize the Electrodes and Waveforms for Deep Brain Stimulation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_366-1,
+720,reference/cn/Gunay14,Neuronal Model Databases.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_165-1,
+721,reference/cn/Triesch14,"Cortical Function, Normative Models of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_279-1,
+722,reference/cn/Blackwell14c,Particle-Based Stochastic Simulators.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_191-1,
+723,reference/cn/Amari14,Information Geometry as Applied to Neural Spike Data.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_395-1,
+724,reference/cn/GerasimenkoE14,Epidural Stimulation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_591-1,
+725,reference/cn/NowotnyV14,Dynamic Clamp Technique.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_126-2,
+726,reference/cn/CabralD14,"Spontaneous Activity, Models of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_584-1,
+727,reference/cn/Anastassiou14,"Local Field Potential, Ephaptic Interactions.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_550-1,
+728,reference/cn/DrionPSS14,Calcium-Dependent Potassium Channels.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_224-1,
+729,reference/cn/Bekkers14,"Resistivity, Axial.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_35-2,
+730,reference/cn/Mongillo14,"Working Memory, Models of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_586-1,
+731,reference/cn/Neves14,Models of Extracellular Signal-Regulated Kinases.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_188-1,
+732,reference/cn/Bojak14a,Neural Population Models and Cortical Field Theory: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_759-1,
+733,reference/cn/Hauri14,Cx3D: Cortex Simulation in 3D.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_794-1,
+734,reference/cn/ZecevicP14,Action Potential Initiation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_237-1,
+735,reference/cn/Shinomoto14,Estimation of Neuronal Firing Rate.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_392-5,
+736,reference/cn/Ermentrout14,"Phase Models, Noisy.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_265-1,
+737,reference/cn/WingerdenK14a,"Decision Making, Bias.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_746-1,
+738,reference/cn/Molkov14,Baroreflex Models.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_247-2,
+739,reference/cn/WaxhamC14,"Calmodulin, Models of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_183-1,
+740,reference/cn/LewisS14,Weak Coupling Theory.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_271-1,
+741,reference/cn/DoyonCK14,Neuropharmacological Modelling: Alterations in Ionic Homeostasis.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_750-1,
+742,reference/cn/Abbas14,"Neuromuscular Control Systems, Models of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_711-1,
+743,reference/cn/BlackwellDE14,"Striatal Models, Cellular Detail.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_88-1,
+744,reference/cn/GolowaschN14,"Capacitance, Membrane.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_32-1,
+745,reference/cn/Yu14a,Decision-Making Tasks.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_314-1,
+746,reference/cn/BlackwellJ14,"Protein Kinase A, Models of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_192-3,
+747,reference/cn/Gershman14a,Computation with Dopaminergic Modulation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_631-3,
+748,reference/cn/Penny14,"Imaging Analysis, Bayesian.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_449-1,
+749,reference/cn/SkinnerF14,"Hippocampus, Model Inhibitory Cells.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_29-1,
+750,reference/cn/Manis14,Delayed Rectifier and A-Type Potassium Channels.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_227-1,
+751,reference/cn/Migliaccio14a,Vestibular System: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_752-1,
+752,reference/cn/Jirsa14,"Propagator, Axonal.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_75-1,
+753,reference/cn/LempkaM14,Methodologies for the Treatment of Pain.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_599-3,
+754,reference/cn/Cleland14,Olfactory Computation in Glomerular Microcircuits.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_613-4,
+755,reference/cn/GuerrierKH14,"Calcium Dynamics in Neuronal Microdomains: Modeling, Stochastic Simulations, and Data Analysis.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_179-1,
+756,reference/cn/IncePS14,Summary of Information Theoretic Quantities.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_306-1,
+757,reference/cn/WingerdenK14,Choice Behavior.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_311-1,
+758,reference/cn/Obermayer14,Learning Rules: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_790-1,
+759,reference/cn/Chang14,Neuromechanics of Joint Coordination.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_161-1,
+760,reference/cn/Bair14,Spatiotemporal Energy Models.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_391-1,
+761,reference/cn/Gillespie14,Gillespie Algorithm for Biochemical Reaction Simulation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_189-1,
+762,reference/cn/WongP14,Decoding Field Potentials.,incollection,https://www.wikidata.org/entity/Q59417433,
+763,reference/cn/SantamariaM14,Diffusion Equation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_186-3,
+764,reference/cn/RayL14,Meta-analysis in Neuroimaging.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_542-1,
+765,reference/cn/Prinz14,Neuronal Model Optimization.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_753-1,
+766,reference/cn/Branner14,Micro-Wires.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_597-1,
+767,reference/cn/Prescott14c,Pathological Changes in Peripheral Nerve Excitability.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_748-1,
+768,reference/cn/Yoo14,"Peripheral Nerve Signal Processing, Multipole Cuff Methods.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_216-1,
+769,reference/cn/MedinaG14,"Mammalian Motor Nerve Fibers, Models of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_369-2,
+770,reference/cn/ShidaharaWK14,Kinetic Models for PET/SPECT Imaging.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_526-1,
+771,reference/cn/DevonshireZB14,"Voltage-Sensitive Dye Imaging, Intrinsic Optical Signals.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_541-1,
+772,reference/cn/Franc14,Inward Rectifier Potassium Channels.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_129-2,
+773,reference/cn/OLeary14,Vestibular Function After Cochlear Implantation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_9-1,
+774,reference/cn/Beierholm14a,"Perception, Bayesian Models of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_451-2,
+775,reference/cn/Bethge14,Efficient Population Coding.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_578-1,
+776,reference/cn/Eggermont14,Correlation Analysis of Parallel Spike Trains.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_390-1,
+777,reference/cn/HoriuchiM14,"Neuromorphic Sensors, Head Direction.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_117-1,
+778,reference/cn/Muldoon14,"Hippocampus, Model Network Architecture.",incollection,https://www.wikidata.org/entity/Q60271453,
+779,reference/cn/GriffithMT14,"Spike Timing-Dependent Plasticity (STDP), Biophysical Models.",incollection,https://www.wikidata.org/entity/Q57918630,
+780,reference/cn/TinP14,"Control of Breathing, Integration of Adaptive Reflexes.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_249-1,
+781,reference/cn/Pei14,Somatosensory Cortex: Neural Coding of Motion.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_383-1,
+782,reference/cn/Venugopal14,Conductance-Based Models of Nonlinear Dynamics in Vertebrate Motoneurons.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_710-1,
+783,reference/cn/InceSP14,Estimating Information-Theoretic Quantities.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_140-1,
+784,reference/cn/Ren14,"Visual Prosthesis, Optic Nerve Approaches.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_664-1,
+785,reference/cn/BaierM14,Dynamic Diseases of the Brain.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_503-3,
+786,reference/cn/Ito14,Spike-Triggered Average.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_407-1,
+787,reference/cn/Legenstein14,"Recurrent Network Models, Reservoir Computing.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_796-1,
+788,reference/cn/Schubert14,"Vestibular, Rehabilitation.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_14-5,
+789,reference/cn/Fuchs14,Spatial Spectral Analysis.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_419-1,
+790,reference/cn/Santamaria14,Cerebellum: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_779-3,
+791,reference/cn/SchollP14,Modeling the Emergence of Orientation Selectivity in the Cerebral Cortex.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_576-1,
+792,reference/cn/Hutt14a,Pattern Formation in Neural Population Models.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_72-3,
+793,reference/cn/DagnelieS14,"Prosthetic Vision, Perceptual Effects.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_657-1,
+794,reference/cn/Large14,Rhythm Perception: Pulse and Meter.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_106-2,
+795,reference/cn/SumnerM14,Sound Localization and Experience-Dependent Plasticity.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_107-1,
+796,reference/cn/BrittenHNMBC14,FieldML.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_374-3,
+797,reference/cn/EinevollH14,Lateral Geniculate Nucleus (LGN) Models.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_556-1,
+798,reference/cn/HrabetovaH14,Brain Extracellular Space: A Compartment for Intercellular Communication and Drug Delivery.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_716-1,
+799,reference/cn/HillenJ14,Peripheral Nerve Interface Applications: Respiratory Pacing.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_205-1,
+800,reference/cn/AbdelghaniAJ14,"Peripheral Nerve Interface Applications, EMG/ENG.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_199-1,
+801,reference/cn/Canavier14a,Pulse-Coupled Oscillators.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_269-1,
+802,reference/cn/Herman14,Computational Models of Modulation of Oscillatory Dynamics.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_624-1,
+803,reference/cn/Loeb14,"Spinal Cord, Integrated (Non CPG) Models of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_648-1,
+804,reference/cn/Blais14,Receptive Field Modeling.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_360-2,
+805,reference/cn/Hyvarinen14a,Topographic Independent Component Analysis.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_677-1,
+806,reference/cn/Terman14,Subthalamopallidal Loop and Oscillations.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_91-1,
+807,reference/cn/BazhenovS14,Olfactory Computation in Antennal Lobe and Mushroom Bodies.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_612-1,
+808,reference/cn/SantamariaM14a,Multi-scale Modeling of Purkinje Cells.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_473-2,
+809,reference/cn/Vallabhajosula14,Radiopharmaceuticals in Molecular Imaging.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_537-1,
+810,reference/cn/Geit14a,Neurofitter.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_167-1,
+811,reference/cn/FergusonS14a,"Hippocampus, Model Excitatory Cells.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_28-1,
+812,reference/cn/Netoff14a,"Phase Response Curve, Measurement, and Shape of General.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_266-1,
+813,reference/cn/Lewis14a,Leech Local Bend: Neural Coding of Touch Location.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_342-2,
+814,reference/cn/WellingsBL14,Vestibular Adaptation and Compensation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_6-2,
+815,reference/cn/Goodhill14,"Cortical Maps, Intrinsic Processes.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_671-2,
+816,reference/cn/Netoff14,Brain-Scale Networks: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_772-1,
+817,reference/cn/Oweiss14,Brain-Machine Interface: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_783-1,
+818,reference/cn/WeiW14,Basal Ganglia: Decision-Making.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_519-1,
+819,reference/cn/Blackwell14,Biochemical Signaling Pathways and Diffusion: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_769-2,
+820,reference/cn/Poirazi14,Dendritic Computation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_125-1,
+821,reference/cn/Humphries14,Basal Ganglia: Mechanisms for Action Selection.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_83-3,
+822,reference/cn/Contreras14,Low-Frequency Oscillations (Anesthesia and Sleep): Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_754-1,
+823,reference/cn/Riera14,"Biophysical Models: Neurovascular Coupling, Cortical Microcircuits, and Metabolism.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_522-1,
+824,reference/cn/Engbers14,Low-Voltage-Activated Calcium Channels.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_130-2,
+825,reference/cn/Frankel14,"Peripheral Nerve Interface, Intraneural Electrode.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_211-1,
+826,reference/cn/WaltemathN14,Simulation Experiment Description Markup Language (SED-ML).,incollection,https://doi.org/10.1007/978-1-4614-7320-6_377-6,
+827,reference/cn/Yu14,Computational Models of Neuromodulation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_625-1,
+828,reference/cn/Lopez-Poveda14,"Cochlear Inner Hair Cell, Model.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_427-5,
+829,reference/cn/Wimmer14,"Adaptation in Sensory Cortices, Models of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_565-1,
+830,reference/cn/Venugopal14a,Connectionist Models of CPG Networks.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_122-1,
+831,reference/cn/Girard14,Basal Ganglia: Control of Saccades.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_516-1,
+832,reference/cn/Davison14,NineML.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_375-2,
+833,reference/cn/Migliaccio14,Peripheral Vestibular Signal Processing.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_5-1,
+834,reference/cn/DingR14,Parametric Spectral Analysis.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_416-1,
+835,reference/cn/RattayDHM14,Finite Element Modeling for Extracellular Stimulation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_593-5,
+836,reference/cn/Brosch14,Associations and Rewards in Auditory Cortex.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_105-4,
+837,reference/cn/Molkov14a,Coupled Oscillations in Neural Control of Breathing.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_43-2,
+838,reference/cn/Schaette14,"Tinnitus, Models.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_111-5,
+839,reference/cn/FrijnsB14,Auditory Prosthesis.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_554-1,
+840,reference/cn/Gibson14,"Metabotropic Receptors Dynamics, Conductance Models.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_353-2,
+841,reference/cn/ChakravarthyB14,Basal Ganglia System as an Engine for Exploration.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_81-1,
+842,reference/cn/Graham14a,Modeling the Axon.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_241-1,
+843,reference/cn/DegenaarB14,"Visual Prosthesis, Optogenetic Approaches.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_666-1,
+844,reference/cn/Martone14,Cell Centered Database.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_487-1,
+845,reference/cn/Berger14,"Tripartite Synapse (Neuron-Astrocyte Interactions), Conductance Models.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_363-1,
+846,reference/cn/WeberW014,Peripheral Nerve Interfaces: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_771-1,
+847,reference/cn/Einevoll14,"Extracellular Potentials, Forward Modeling of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_59-1,
+848,reference/cn/Victor14,Spike Train Distance.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_409-1,
+849,reference/cn/Dimitrov14,Information Theory: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_751-1,
+850,reference/cn/TaubLO14,"Local Field Potential, Relationship to Membrane Synaptic Potentials.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_728-1,
+851,reference/cn/Eglen14,"Retinotopic Development, Models of.",incollection,https://www.wikidata.org/entity/Q60243009,
+852,reference/cn/Roberts14b,Rhythm Generation in Young Xenopus Tadpoles.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_46-6,
+853,reference/cn/MarascoM14,Reduced Morphology Models.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_245-1,
+854,reference/cn/Rubin14,Basal Ganglia: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_760-1,
+855,reference/cn/Jones14a,"Local Field Potential, Relationship to Electroencephalography (EEG) and Magnetoencephalography (MEG).",incollection,https://doi.org/10.1007/978-1-4614-7320-6_727-1,
+856,reference/cn/Schoner14,"Embodied Cognition, Dynamic Field Theory of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_55-1,
+857,reference/cn/WhiteH14,Neuronal Model Output Fitness Function.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_160-1,
+858,reference/cn/Moran14,Dynamic Causal Modeling with Neural Population Models.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_57-2,
+859,reference/cn/Potthast14a,Inverse Problems in Neural Population Models.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_64-1,
+860,reference/cn/Beuter14,Parkinson's Disease: Deep Brain Stimulation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_510-2,
+861,reference/cn/MorenoC14,Cardiac Excitable Tissue Pathology (Ion Channels).,incollection,https://doi.org/10.1007/978-1-4614-7320-6_737-1,
+862,reference/cn/Abbott14,"Imaging, Specimen Preparation.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_283-2,
+863,reference/cn/Rubin14a,Comparative Analysis of Half-Center Central Pattern Generators (CPGs).,incollection,https://doi.org/10.1007/978-1-4614-7320-6_39-1,
+864,reference/cn/LogothetisP14,"Local Field Potential, Relationship to BOLD Signal.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_726-1,
+865,reference/cn/TsianosL14,Physiology and Computational Principles of Muscle Force Generation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_246-2,
+866,reference/cn/Curthoys14,"Vestibular Otoliths, Response to Vibration and Sound.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_155-2,
+867,reference/cn/HauserS14,Perceptual Decision Making.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_317-1,
+868,reference/cn/NowotnyB14,Gap Junctions in Small Networks.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_455-1,
+869,reference/cn/Ernst14,"Center-Surround Processing, Computational Role of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_569-1,
+870,reference/cn/BarnettC14,Bifurcation Analysis.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_156-1,
+871,reference/cn/Tabot14a,Somatosensory Cortex: Organization.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_385-1,
+872,reference/cn/WuCB14,Time-Delayed Neural Networks: Stability and Oscillations.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_513-1,
+873,reference/cn/Schwabe14a,"Center-Surround Processing, Network Models of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_570-1,
+874,reference/cn/Smith14,Computational Models of Mammalian Respiratory CPG.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_41-1,
+875,reference/cn/Soofi14,Neuronal Parameter Space Exploration.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_173-1,
+876,reference/cn/WinklerDE14,Auditory Event-related Potentials.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_99-1,
+877,reference/cn/DannerHM14,Finite Element Models of Transcutaneous Spinal Cord Stimulation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_604-4,
+878,reference/cn/DudaniBR14,"MOOSE, the Multiscale Object-Oriented Simulation Environment.",incollection,https://www.wikidata.org/entity/Q58187696,
+879,reference/cn/Choe14a,Brain Atlases.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_273-1,
+880,reference/cn/KohB14,Stochastic Simulators.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_196-2,
+881,reference/cn/Smolinski14a,Multi-objective Evolutionary Algorithms.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_16-2,
+882,reference/cn/Remme14,Quasi-active Approximation of Nonlinear Dendritic Cables.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_34-1,
+883,reference/cn/Bahar14,Stochastic Resonance: Balance Control and Cochlear Implants.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_512-1,
+884,reference/cn/Nolan14,Hyperpolarization-Activated Cyclic Nucleotide-Gated Channels.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_231-2,
+885,reference/cn/Jones14,"Gamma-Aminobutyric Acid Type-A (GABA-A) Receptors, Kinetic Models.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_348-1,
+886,reference/cn/Cutsuridis14,Bradykinesia Models.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_85-1,
+887,reference/cn/Holmes14c,"Electrotonic Length, Formulas and Estimates.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_480-1,
+888,reference/cn/Almeida14,Olfactory Cortical Associative Memory Models.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_618-3,
+889,reference/cn/Bogacz14a,Speed-Accuracy Trade-Off.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_319-1,
+890,reference/cn/McDougalWMMMCHS14,ModelDB.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_158-1,
+891,reference/cn/HuysCS14,"Reward-Based Learning, Model-Based and Model-Free.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_674-1,
+892,reference/cn/Butera14,Coexistence of Bursting Regimes.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_293-1,
+893,reference/cn/Schwabe14,Balanced State.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_573-1,
+894,reference/cn/Holmes14g,"Time Constant, τ, in Neuronal Signaling.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_37-1,
+895,reference/cn/2014,Encyclopedia of Computational Neuroscience,book,https://doi.org/10.1007/978-1-4614-7320-6,
+896,reference/cn/BowerCB14,"GENESIS, The GEneral NEural SImulation System.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_255-1,
+897,reference/cn/Cowan14,Visual Hallucinations and Migraine Auras.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_515-1,
+898,reference/cn/Gleeson14,Software Tools for Modelling in Computational Neuroscience: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_93-1,
+899,reference/cn/Hill14,"Cortical Columns, Models of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_571-1,
+900,reference/cn/IjspeertC14,Control of Aquatic and Terrestrial Gaits in Salamander.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_44-2,
+901,reference/cn/Destexhe14b,Slow Oscillations and Epilepsy: Network Models.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_19-1,
+902,reference/cn/HinesC14a,Numerical Integration Methods.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_242-1,
+903,reference/cn/McGeeG14,Methodologies for the Restoration of Bladder and Bowel Functions.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_589-5,
+904,reference/cn/HennigR14,Auditory Processing in Insects.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_321-1,
+905,reference/cn/Cuntz14a,The TREES Toolbox - Code for Neuronal Branching.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_793-2,
+906,reference/cn/Gerstein14a,Joint Peri Stimulus Time Histogram (JPSTH).,incollection,https://doi.org/10.1007/978-1-4614-7320-6_397-1,
+907,reference/cn/Prut14,"Coordinate Transformations, Role of Spinal Cord in.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_637-1,
+908,reference/cn/TraubW14,Delta Rhythms: Models and Physiology.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_305-1,
+909,reference/cn/Liley14b,Neural Population Model.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_69-1,
+910,reference/cn/Lytton14,"Modeling of Disease: Molecular Level, Overview.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_770-1,
+911,reference/cn/PolineK14,Software for Neuroimaging Data Analysis.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_538-1,
+912,reference/cn/Salinas14,Decision Making: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_248-6,
+913,reference/cn/EsceraAG14,Auditory Evoked Brainstem Responses.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_423-1,
+914,reference/cn/Naud14,Neuronal Model Reduction.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_166-1,
+915,reference/cn/DestexheG14,LFP Analysis: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_782-1,
+916,reference/cn/CabreraP14,"Human Balancing Tasks: Power Laws, Intermittency, and Lvy Flights.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_502-5,
+917,reference/cn/ButeraN14,"Phase Response Curve, Topology of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_268-1,
+918,reference/cn/Sherwood14,Computational Analysis of Rodent Spinal CPG.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_40-2,
+919,reference/cn/Edelstein14,Modeling of Bimolecular Reactions.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_176-1,
+920,reference/cn/Torres14a,Hopfield Network.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_673-1,
+921,reference/cn/Beeman14,Hodgkin-Huxley Model.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_127-3,
+922,reference/cn/Linares-BarrancoS14,"Neuromorphic Sensors, Vision.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_120-1,
+923,reference/cn/FoxRN14,Bursting in Neurons and Small Networks.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_454-1,
+924,reference/cn/FisherW14,"Peripheral Nerve Interface Applications, Sensory Restoration.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_206-1,
+925,reference/cn/Blackwell14d,"Protein Kinase C, Models of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_193-1,
+926,reference/cn/Hennig14a,"Retinal Waves, Models of.",incollection,https://www.wikidata.org/entity/Q64446046,
+927,reference/cn/WilliamsHM14,Neuromodulation in Small Networks.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_26-2,
+928,reference/cn/MohapatraDSJ14,Modeling Ion Concentrations.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_239-2,
+929,reference/cn/SongB14,Hippocampal Memory Prosthesis.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_558-1,
+930,reference/cn/Crook14,Model Reproducibility: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_763-1,
+931,reference/cn/Braasch14,"Sound Localization in Mammals, Models.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_436-1,
+932,reference/cn/Romero-Ortega14a,"Peripheral Nerves, Anatomy and Physiology of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_214-1,
+933,reference/cn/ChelliahJLHN14,BioModels Database: a public repository for sharing models of biological processes.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_636-1,
+934,reference/cn/OgawaM14,Cercal System.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_322-3,
+935,reference/cn/MayerichCK14,"Reconstruction, Techniques, and Validation.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_288-2,
+936,reference/cn/GaspariniM14,Action Potential Backpropagation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_123-4,
+937,reference/cn/Skinner14,"Gamma and Theta Oscillations, Hippocampus: Overview.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_756-1,
+938,reference/cn/Roberts14,"N -Methyl- d -Aspartate (NMDA) Receptors, Conductance Models.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_354-1,
+939,reference/cn/DevergnasW14,Local Field Potential and Movement Disorders.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_551-1,
+940,reference/cn/Booth14,Neuronal Model Hand-Tuning.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_163-1,
+941,reference/cn/Rainer14,Local Field Potential in the Visual System.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_722-1,
+942,reference/cn/Hucka14,Systems Biology Markup Language (SBML).,incollection,https://doi.org/10.1007/978-1-4614-7320-6_376-4,
+943,reference/cn/Liley14a,Mesoscopic Anatomy and Neural Population Models.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_66-1,
+944,reference/cn/Rotstein14,Mixed-Mode Oscillations in Single Neurons.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_31-1,
+945,reference/cn/Britten14,CellML.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_373-3,
+946,reference/cn/Compte14,Slow Oscillations: Models.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_307-1,
+947,reference/cn/Bogacz14,Basal Ganglia: Beta Oscillations.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_82-1,
+948,reference/cn/McPeek14,Target Selection vs. Response Selection.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_320-1,
+949,reference/cn/Abeles14,Spatial Temporal Spike Pattern Analysis.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_405-1,
+950,reference/cn/Powers14,Compartmental Models of Spinal Motoneurons.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_741-1,
+951,reference/cn/Fisher14,"Peripheral Nerve Interface, Epineural Electrode.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_210-1,
+952,reference/cn/Schnupp14,"Pitch Perception, Models.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_434-2,
+953,reference/cn/Berkowitz14,Control of Locomotion and Scratching in Turtles.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_42-4,
+954,reference/cn/Holmes14f,"Space (Length) Constant, Lambda, in Neuronal Signaling.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_36-1,
+955,reference/cn/Read14,"Stereo Vision, Models of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_560-1,
+956,reference/cn/Harris-Warrick14,Locomotor Pattern Generation in the Rodent Spinal Cord.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_48-1,
+957,reference/cn/Dokos14,Computational Models of Neural Retina.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_652-1,
+958,reference/cn/Kolsch14,Music Processing in the Brain.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_104-1,
+959,reference/cn/Cardin14,Optogenetics.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_524-1,
+960,reference/cn/Bednar14a,"Visual Aftereffects, Models of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_730-1,
+961,reference/cn/PecoraC14,Master Stability Function for Globally Synchronized Systems.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_441-1,
+962,reference/cn/SchelterT14,Determining Network Structure from Data: Nonlinear Modeling Methods.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_439-2,
+963,reference/cn/Houghton14,Metric Space Analysis of Neural Information Flow.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_744-1,
+964,reference/cn/Jackson14,Recurrent Brain-Computer Interfaces.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_706-1,
+965,reference/cn/FradyK14,Computation with Population Codes.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_335-3,
+966,reference/cn/TreschJ14,Spinal and Neuromechanical Integration: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_788-1,
+967,reference/cn/Kilpatrick14,Wilson-Cowan Model.,incollection,https://www.wikidata.org/entity/Q98837546,
+968,reference/cn/OMaraD14,Polypeptide and Protein Modeling for Drug Design.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_732-1,
+969,reference/cn/Canavier14,Phase Response Curves: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_774-1,
+970,reference/cn/Patterson14,Pulse-Resonance Sounds.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_430-6,
+971,reference/cn/FergusonS14,"Hippocampal Theta, Gamma, and Theta/Gamma Network Models.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_27-1,
+972,reference/cn/Cuntz14,Models of Fly Lobula Plate Tangential Cells (LPTCs).,incollection,https://doi.org/10.1007/978-1-4614-7320-6_331-1,
+973,reference/cn/Kaiser14,Neuropathologies and Networks.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_740-1,
+974,reference/cn/Aw14,"Vestibular, Canal Testing: The Head Impulse Test.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_154-1,
+975,reference/cn/BazhenovK14,Multistability in Seizure Dynamics.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_302-1,
+976,reference/cn/IndiveriD14,Neuromorphic Cognition.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_113-1,
+977,reference/cn/Druckmann14,Evolutionary Algorithms.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_159-1,
+978,reference/cn/GerkinTCK14,Databases and Data Repositories in Computational Neuroscience: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_780-1,
+979,reference/cn/Bednar14,Topographica.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_263-5,
+980,reference/cn/Ward14,Peripheral Nerve Interface Applications: Vagal Nerve Stimulation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_209-2,
+981,reference/cn/Sanborn14,"Cognition, Bayesian Models of.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_447-1,
+982,reference/cn/Tanaka-Yamamoto14,Long Term Depression in the Granule Cell-Purkinje Cell Synapse.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_472-1,
+983,reference/cn/SennP14a,"Spike-Timing-Dependent Plasticity, Learning Rules.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_683-1,
+984,reference/cn/Grun14b,Unitary Event Analysis.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_412-1,
+985,reference/cn/Venugopal14b,Motoneurons and Neuromuscular Systems: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_479-1,
+986,reference/cn/Dodla14,Postinhibitory Rebound and Facilitation.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_152-1,
+987,reference/cn/Wilson14,Large-Scale Neural Networks: Vision.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_506-1,
+988,reference/cn/Torres14b,Perceptron Learning.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_679-1,
+989,reference/cn/Roberts14a,"AMPA Glutamate Receptor (AMPA Receptor), Conductance Models.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_344-1,
+990,reference/cn/Swindale14,Cortical Maps: Activity-Dependent Development.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_670-1,
+991,reference/cn/LebloisD14,Basal Ganglia: Songbird Models.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_84-1,
+992,reference/cn/Sterratt14a,Goldman-Hodgkin-Katz Equations.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_229-1,
+993,reference/cn/Rotstein14a,Subthreshold Amplitude and Phase Resonance in Single Cells.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_598-1,
+994,reference/cn/ShepherdMMCCMMHM14,SenseLab: Integration of Multidisciplinary Neuroscience Data.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_497-1,
+995,reference/cn/Roberts14c,Synaptic Dynamics: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_225-1,
+996,reference/cn/Wodlinger14,"Peripheral Nerve Signal Processing, Source Localization.",incollection,https://doi.org/10.1007/978-1-4614-7320-6_217-1,
+997,reference/cn/Holmes14e,Morphoelectrotonic Transform.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_481-1,
+998,reference/cn/Linster14b,Olfaction: Overview.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_786-1,
+999,reference/cn/ChenB14,Generalized Linear Models for Point Process Analyses of Neural Spiking Activity.,incollection,https://doi.org/10.1007/978-1-4614-7320-6_393-1,
