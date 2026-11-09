@@ -12,7 +12,17 @@ Step 2  tables -> HIN: every ID gets an integer index per node type, every edge
         becomes (src_index, dst_index); references to IDs that do not exist are
         reported, not silently kept.
 Output: Parquet files in <out_dir>/hin/ plus summary.txt
+
+The result is also available as an in-memory HIN with typed adjacency lists
+(see hin.py):
+    from xml2hin import build
+    hin = build("data/mondial/mondial.xml", "schemas/mondial.yaml")
+    hin.neighbors("country", "D", "borders")
+or, without parsing the XML again:
+    from hin import HIN
+    hin = HIN.load("out/mondial")
 """
+import json
 import os
 import sys
 import time
@@ -21,6 +31,11 @@ from collections import Counter, defaultdict
 import pandas as pd
 import yaml
 from lxml import etree
+
+from hin import HIN
+
+__version__ = "1.0.0"
+PROGRESS_EVERY = 500_000      # print a progress line every N top-level records
 
 
 # ---------- schema ----------
@@ -96,6 +111,7 @@ def extract(xml_path, schema):
     stack = []                     # open node elements (for nesting edges)
     nested_pending = []            # (edge, child_id, parent_entry)
     stats = Counter()
+    n_records, t0 = 0, time.time()
 
     parser = etree.iterparse(xml_path, events=("start", "end"), tag=list(tag_to_type),
                              load_dtd=True, resolve_entities=True, huge_tree=True)
@@ -127,6 +143,9 @@ def extract(xml_path, schema):
                     if v not in e.get("ignore", []):
                         edges[e["name"]].append((nid, v))
         if not stack:              # top-level node finished: free memory
+            n_records += 1
+            if n_records % PROGRESS_EVERY == 0:
+                print(f"  ... {n_records:,} records read ({time.time() - t0:.0f}s)", file=sys.stderr, flush=True)
             el.clear()
             while el.getprevious() is not None:
                 del el.getparent()[0]
@@ -146,41 +165,72 @@ def extract(xml_path, schema):
 
 # ---------- step 2: tables -> HIN ----------
 
-def build_hin(nodes, edges, schema, out_dir):
-    hin_dir = os.path.join(out_dir, "hin")
-    os.makedirs(hin_dir, exist_ok=True)
-    index = {}
-    lines = ["NODE TYPES"]
+def make_tables(nodes, edges, schema):
+    """Give every ID an integer index per node type and turn edges into index pairs.
+    Returns (node_tables, edge_tables, dangling)."""
+    node_tables, index = {}, {}
     for ntype, recs in nodes.items():
         df = pd.DataFrame(list(recs.values()), index=range(len(recs))).fillna("").astype(str)
         df.insert(0, "node_id", list(recs.keys()))
         df.insert(0, "idx", range(len(df)))
-        df.to_parquet(os.path.join(hin_dir, f"nodes_{ntype}.parquet"), index=False)
+        node_tables[ntype] = df
         index[ntype] = dict(zip(df["node_id"], df["idx"]))
-        lines.append(f"  {ntype:<14} {len(df):>8,} nodes")
+    for ntype in schema["nodes"]:            # node types with no nodes still exist
+        if ntype not in node_tables:
+            node_tables[ntype] = pd.DataFrame({"idx": pd.Series(dtype="int64"), "node_id": pd.Series(dtype=str)})
+            index[ntype] = {}
 
-    lines.append("EDGE TYPES  (from -> to)")
-    dangling = []
+    edge_tables, dangling = {}, []
+    cols = ["src_type", "src_idx", "dst_type", "dst_idx", "src_id", "dst_id"]
     for e in schema["edges"]:
         targets = e["to"] if isinstance(e["to"], list) else [e["to"]]
         rows = []
         for src, dst in edges.get(e["name"], []):
-            hit = next((t for t in targets if dst in index.get(t, {})), None)
+            hit = next((t for t in targets if dst in index[t]), None)
             if hit is None:
                 dangling.append((e["name"], src, dst))
                 continue
-            rows.append((index[e["from"]][src], hit, index[hit][dst], src, dst))
-        df = pd.DataFrame(rows, columns=["src_idx", "dst_type", "dst_idx", "src_id", "dst_id"]).drop_duplicates()
+            rows.append((e["from"], index[e["from"]][src], hit, index[hit][dst], src, dst))
+        df = pd.DataFrame(rows, columns=cols).drop_duplicates().reset_index(drop=True)
+        df["src_idx"] = df["src_idx"].astype("int64")
+        df["dst_idx"] = df["dst_idx"].astype("int64")
+        edge_tables[e["name"]] = df
+    return node_tables, edge_tables, dangling
+
+
+def write_tables(node_tables, edge_tables, dangling, schema, out_dir):
+    hin_dir = os.path.join(out_dir, "hin")
+    os.makedirs(hin_dir, exist_ok=True)
+    lines = ["NODE TYPES"]
+    for ntype, df in node_tables.items():
+        df.to_parquet(os.path.join(hin_dir, f"nodes_{ntype}.parquet"), index=False)
+        lines.append(f"  {ntype:<14} {len(df):>8,} nodes")
+    lines.append("EDGE TYPES  (from -> to)")
+    for e in schema["edges"]:
+        targets = e["to"] if isinstance(e["to"], list) else [e["to"]]
+        df = edge_tables[e["name"]]
         df.to_parquet(os.path.join(hin_dir, f"edges_{e['name']}.parquet"), index=False)
         lines.append(f"  {e['from'] + ' -[' + e['name'] + ']-> ' + '/'.join(targets):<48} {len(df):>8,} edges")
-
     pd.DataFrame(dangling, columns=["edge", "src_id", "missing_id"]).to_csv(
         os.path.join(out_dir, "dangling_refs.csv"), index=False)
+    with open(os.path.join(hin_dir, "meta.json"), "w", encoding="utf-8") as f:
+        json.dump({"dataset": schema.get("dataset", ""), "xml2hin_version": __version__,
+                   "edges": {e["name"]: {"from": e["from"], "to": e["to"]} for e in schema["edges"]}}, f, indent=2)
     lines.append(f"References to IDs not in this file: {len(dangling):,} (see dangling_refs.csv)")
     return lines
 
 
+def build(xml_path, schema_path):
+    """Parse one XML file with one schema and return the in-memory HIN (no files written)."""
+    schema = load_schema(schema_path)
+    nodes, edges, _ = extract(xml_path, schema)
+    node_tables, edge_tables, _ = make_tables(nodes, edges, schema)
+    return HIN.from_tables(node_tables, edge_tables, schema.get("dataset", ""))
+
+
 def main():
+    if len(sys.argv) == 2 and sys.argv[1] in ("--version", "-V"):
+        sys.exit(f"xml2hin {__version__}")
     if len(sys.argv) != 4:
         sys.exit(__doc__)
     xml_path, schema_path, out_dir = sys.argv[1:]
@@ -189,9 +239,11 @@ def main():
     schema = load_schema(schema_path)
     t0 = time.time()
     nodes, edges, stats = extract(xml_path, schema)
+    node_tables, edge_tables, dangling = make_tables(nodes, edges, schema)
+    del nodes, edges                      # free the raw tables before writing
     os.makedirs(out_dir, exist_ok=True)
     lines = [f"Dataset: {schema.get('dataset', xml_path)}   ({os.path.basename(xml_path)})"]
-    lines += build_hin(nodes, edges, schema, out_dir)
+    lines += write_tables(node_tables, edge_tables, dangling, schema, out_dir)
     lines += [f"  note: {k}: {v}" for k, v in stats.items()]
     lines.append(f"Time: {time.time() - t0:.2f}s   Output: {os.path.join(out_dir, 'hin')}")
     text = "\n".join(lines)

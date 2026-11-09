@@ -1,4 +1,6 @@
-lxml
-pyyaml
-pandas
-pyarrow
+# Tested with Python 3.13, lxml 6.1, PyYAML 6.0, pandas 3.0, pyarrow 26, numpy 2.x
+lxml>=4.9
+PyYAML>=6.0
+pandas>=1.5
+pyarrow>=10.0
+numpy>=1.23

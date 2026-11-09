@@ -1,5 +1,8 @@
 # DBLP: bibliography. IDs are the "key" attribute; references are child elements.
 dataset: DBLP
+xml: data/dblp_full/dblp.xml           # used by run.py; download first (see README)
+note: "Full DBLP dump. Takes ~7-18 minutes and ~17 GB RAM."
+example: 'person "Jeffrey D. Ullman"'
 nodes:
   publication:
     # all publication kinds are ONE node type; the original tag is kept as an attribute

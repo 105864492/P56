@@ -22,9 +22,8 @@ env/
 Thumbs.db
 desktop.ini
 
-# Generated output (rebuild with run_demo.py)
+# Generated output (rebuild with run.py)
 out/
 
-# Full DBLP dump is too large for git; the sample stays tracked
-data/dblp/dblp.xml
-data/dblp/dblp.xml.gz
+# Full DBLP dump is too large for git; download it (see README)
+data/dblp_full/

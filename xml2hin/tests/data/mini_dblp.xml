@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+<!-- Hand-made test file in DBLP format (not real data). -->
+<dblp>
+<proceedings key="conf/test/2020"><editor>Eva Editor</editor><title>Proceedings of Test 2020</title><year>2020</year></proceedings>
+<inproceedings key="conf/test/A20"><author>J&uuml;rgen M&uuml;ller</author><author>Bob Brown</author><title>Paper A</title><year>2020</year><booktitle>Test</booktitle><crossref>conf/test/2020</crossref><cite>conf/test/B20</cite><cite>...</cite><cite>journals/missing/X99</cite></inproceedings>
+<inproceedings key="conf/test/B20"><author>Bob Brown</author><title>Paper B</title><year>2020</year><booktitle>Test</booktitle><crossref>conf/test/2020</crossref></inproceedings>
+<article key="journals/tj/C21"><author>Carol Chen</author><title>Paper C</title><year>2021</year><journal>Test Journal</journal><cite>conf/test/A20</cite></article>
+<www key="homepages/x/Y"><author>Bob Brown</author><title>Home Page</title></www>
+<article><title>No key, should be skipped</title></article>
+</dblp>

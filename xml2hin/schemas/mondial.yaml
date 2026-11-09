@@ -1,6 +1,9 @@
 # MONDIAL: world geography. IDs and references are XML attributes (declared ID/IDREF
 # in mondial.dtd), and provinces/cities are nested inside countries.
 dataset: MONDIAL
+xml: data/mondial/mondial.xml          # used by run.py
+note: "MONDIAL geography, included. Takes under a second."
+example: country D                     # shown after the run
 nodes:
   country:      {tags: [country],      id: "@car_code"}
   province:     {tags: [province],     id: "@id"}
